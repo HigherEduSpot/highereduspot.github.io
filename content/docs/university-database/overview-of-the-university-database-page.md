@@ -20,7 +20,7 @@ Explore leading universities in the United States, Canada, and Mexico. Known for
 
 ---
 
-### 2. **South America**
+### 2. **South America**
 
 Discover vibrant universities across South America, including Brazil, Argentina, and Chile. With strong regional specializations and a focus on sustainability and cultural studies, this continent offers unique educational experiences.
 
