@@ -6,7 +6,7 @@ icon: database
 date: 2024-12-27T12:00:00+00:00
 categories: ["Education", "Universities", "Prestigious Institutions"]
 tags: ["Harvard", "Education", "Academic Excellence", "Leadership"]
-images: [https://highereduspot.github.io/harvard.jpg]
+images: "https://highereduspot.github.io/harvard.jpg"
 ---
 
 Founded in 1636, **Harvard University** is the oldest institution of higher education in the United States and one of the most prestigious universities in the world. Nestled in the historic city of Cambridge, Massachusetts, Harvard is synonymous with academic rigor, groundbreaking research, and a commitment to developing global leaders.
