@@ -1,7 +1,6 @@
 ---
 weight: 30
 date: 2024-12-27T12:00:00+00:00
-author: "HigherEduSpot"
 title: "Getting Started"
 icon: inventory
 description: "Whether you're looking for postdoctoral positions, faculty roles, or administrative careers, our platform connects you with top institutions seeking talented individuals like you."

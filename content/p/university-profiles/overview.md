@@ -7,4 +7,4 @@ description: "Explore Comprehensive Profiles of Universities Across the Globe."
 date: 2025-01-03T15:00:00+03:00
 ---
 
-University Profiles page is currently under development. As a startup company, we will include university profiles as soon as they are submitted by universities."
+University Profiles page is currently under development. As a startup company, we will include university profiles as soon as they are submitted by universities.
