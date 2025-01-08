@@ -2,17 +2,14 @@
 weight: 130000
 title: "University of Cambridge"
 description: "Discover the Legacy, Academic Excellence, and Global Impact of the University of Cambridge."
-icon: database
+icon: edit_document
 date: 2024-12-27T12:00:00+00:00
 ategories: ["University Profiles", "Global Universities", "United Kingdom"]
 tags: ["Cambridge", "Higher Education", "Research University", "Top Universities", "UK Universities"]
 ---
 
-{{< figure src="/cambridge.jpg" alt="Cambridge University Campus" title="Cambridge University" >}}
+{{< figure src="/cambridge.jpg" alt="University of Cambridge Campus" title="University of Cambridge" >}}
 
----
-
-### Overview  
 The **University of Cambridge**, located in Cambridge, England, is one of the oldest and most prestigious universities in the world. Established in 1209, it has a rich history of academic excellence and innovation. Cambridge is renowned for its rigorous academic programs, world-class faculty, and significant contributions to research and education globally.  
 
 ---
