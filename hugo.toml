@@ -1,7 +1,7 @@
 baseURL = 'https://highereduspot.github.io/'
 languageCode = 'en-us'
 
-title = 'University Profiles, Jobs, and Programs Database - HigherEduSpot'
+title = 'University Profiles, Jobs, and Database - HigherEduSpot'
 
 [module]
     [[module.imports]]
@@ -99,7 +99,7 @@ title = 'University Profiles, Jobs, and Programs Database - HigherEduSpot'
     weight = 20
 
 [[menu.primary]]
-     name  = "Documentation"
+     name  = "Database"
      url = "/docs/"
      identifier = "docs"
      weight = 30

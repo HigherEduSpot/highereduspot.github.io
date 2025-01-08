@@ -37,7 +37,7 @@ hero:
   cta2Button:
     icon: work
     btnText: "Search Jobs"
-    url: "/jobs/"
+    url: "/p/"
 
   info: "**MIT Licensed.**"
 
