@@ -24,13 +24,13 @@ You must be at least 18 years old to use our services.
 
 ---
 
-### 2. Payments
+### 2. **Payments**
 
-#### 2.1 **Processor**:
+#### 2.1 **Processor**:
 
 Payments for services provided by HigherEduSpot are processed through Xolo Go OÜ and/or Stripe.
 
-#### 2.2 **Timeline**:
+#### 2.2 **Timeline**:
 
 Payments must be made within 7 days of receiving the invoice or confirmation.
 
