@@ -1,0 +1,47 @@
+# Note: Template blocks require a 'weight' parameter so they're correctly ordered on the landing page
+
+# Hero
+hero:
+  enable: true
+  weight: 1
+  template: hero
+
+  backgroundImage:
+    path: "images/templates/hero"
+    filename:
+      desktop: "gradient-desktop.webp"
+      mobile: "gradient-mobile.webp"
+
+  badge:
+    text: v0.1.0
+    color: primary # primary, secondary, success, danger, warning, info, light, dark
+    pill: false # boolean
+    soft: true # boolean
+
+  # titleLogo:
+  #   path: "images/logos"
+  #   filename: "title_logo.png"
+  #   alt: "Lotus Docs Logo"
+  #   height: 80px
+
+  title: "University Jobs Time"
+  subtitle: A lightweight **university jobs** platform for faculty seekers, and faculty search committe. Explore **fast**, **secure**, and **web-friendly** interface.
+
+  image:
+    path: "images" # path to image under configured assets directory. default 'images'
+    filename: "universityjobtime.png" # filename of your hero image (including file extension)
+    alt: "University Job Time" # Optional but recommended
+    boxShadow: true # default 'false' (excludes .svg images)
+    rounded: true # round the image corners? default 'false' (excludes .svg images)
+
+  ctaButton:
+    icon: rocket_launch
+    btnText: "Home"
+    url: "https://articleos.github.io/docs/"
+
+  cta2Button:
+    icon: construction
+    btnText: "Overview"
+    url: "/docs/overview"
+
+  info: "**Open Source** MIT Licensed."

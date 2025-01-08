@@ -1,1 +1,1 @@
-# highereduspot.github.io
+# articleos.github.io

@@ -1,0 +1,189 @@
+<table class="custom-table" onclick="showPopup()">
+    <tr>
+      <td colspan="2" class="header-cell">Associate Professor / Assistant Professor, Department of Accountancy</a></td>
+    </tr>
+    <tr>
+      <td class="left-column">
+        <strong>Lingnan University</strong><br /><strong>Due: 19.01.2025</strong> <br> <strong>Hong Kong</strong>
+      </td>
+      <td class="right-column">
+        <img src="https://www.businessschoolsjobs.eu.org/lingnan-university.png" alt="Logo" class="logo-image" />
+      </td>
+    </tr>
+</table>
+
+<!-- Popup Modal -->
+<div id="popup" class="popup" onclick="closePopup(event)">
+    <div class="popup-content" onclick="event.stopPropagation()"> <!-- Stops clicking inside popup from closing it -->
+        <span class="close-btn" onclick="closePopup(event)">&times;</span> <!-- Close button -->
+        <h2>Associate Professor / Assistant Professor, Department of Accountancy</h2>
+
+        <!-- Job Details -->
+        <p><strong>Employer:</strong> Lingnan University</p>
+        <p><strong>Post Date:</strong> 05.12.2024</p>
+        <p><strong>Due Date:</strong> 19.01.2025</p>
+        <p><strong>Contract:</strong> Tenure Track / Tenure</p>
+        <p><strong>Application Method:</strong> E-mail</p>
+
+        <!-- Sample Job Description Paragraphs -->
+        <h3>About</h3>
+        <p>Lingnan University is one of the eight publicly funded institutions in the Hong Kong Special Administrative Region (HKSAR) and has the longest established tradition among the local institutions of higher education. It is widely recognised for providing quality education with a focus on whole-person development and conducting high-impact research for a better world. Moving forward, Lingnan University is well positioned to take lead as a comprehensive university in arts and sciences in the digital era, with impactful research and innovations. <br> Lingnan University offers undergraduate, taught postgraduate, and research postgraduate programmes in the Faculties of Arts, Business, Social Sciences, and the Schools of Data Science, Graduate Studies and Interdisciplinary Studies. To foster interdisciplinary collaboration and scientific progress, Lingnan University established the Lingnan University Institute for Advanced Study (LUIAS), attracting distinguished scholars from around the world to collaborate with its faculty and students. With traditional strengths in arts, business, social sciences, and interdisciplinary studies, the University aims to equip students with practical knowledge and critical thinking skills to thrive in the future. Subsequent to the establishment of the School of Data Science and LUIAS, Lingnan University is transforming into a hub for global leaders to develop and promote human-centric technology and social policies. Further information about Lingnan University is available at https://www.ln.edu.hk/. <br> Applications are now invited for the following post: <br> Associate Professor / Assistant Professor <br> Department of Accountancy <br> (Post Ref.: 24/379) <br> The Department is now inviting applications for the post of Associate Professor / Assistant Professor. The appointee is expected to contribute to high quality research, teaching, and service.</p>
+
+        <h3>General Requirements</h3>
+        <p>Candidates should have a PhD degree in Accountancy. For appointment as Associate Professor, candidates should have at leave five years of relevant experience and a sound track record in research and scholarly activities. For appointment as Assistant Professor, candidates should have relevant teaching experience, a good research record and must demonstrate good potential in publishing high-quality papers. Top-tier publications and successful GRF applications will be advantages. <br> Lingnan University pursues excellence in both teaching and research. The appointee is expected to apply for external competitive grants, and commit to teaching excellence and active services to the Department, the Faculty, and the University. Applicants are required to provide information on their work experience, qualifications, research records, and evidence of quality teaching. Excellent communication and presentation skills are essential. Administrative experience in university departments would be an advantage.</p>
+
+        <h3>Appointment</h3>
+        <p>The conditions of appointment will be competitive. The rank and remuneration will be commensurate with qualifications and experience. Fringe benefits include annual leave, medical and dental benefits, mandatory provident fund, gratuity and incoming passage and baggage allowance for the eligible appointee. Appointment will normally be made on an initial contract of three years, which, subject to review and mutual agreement, may lead to longer-term appointment with possibility of consideration for substantiation.</p>
+
+        <h3>Application Procedure (online application only)</h3>
+        <p>Please click "Apply Now" to submit your application. Applicants shall provide names and contact information of at least three referees to whom applicants’ consent has been given for their providing references. Personal data collected will be used for recruitment purposes only. <br> We are an equal opportunities employer. Review of applications will continue until the post is filled. Qualified candidates are advised to submit their applications early for consideration. <br> The University reserves the right not to make an appointment for the post advertised, or to fill the post by invitation or by search. We regret that only shortlisted candidates will be notified. <br><a href="https://www.timeshighereducation.com/unijobs/external-redirect-registration?JobId=385690&LinkSource=JobDetails" rel="noopener noreferrer">Apply Now</p>
+    </div>
+</div>
+
+<style>
+    /* General Page Layout */
+    body {
+        margin: 0;
+        padding: 0;
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh; /* Ensures the body takes full height */
+        padding-top: 20px; /* Adds top margin */
+        padding-bottom: 20px; /* Adds bottom margin */
+    }
+
+    /* Table and cell styles */
+    .custom-table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 20px 0;
+        background-color: #f0f0f0; /* Light gray background */
+        border: 2px solid #0066ff; /* Rectangle border with blue color */
+        cursor: pointer; /* Makes the table look clickable */
+    }
+    
+    .custom-table td {
+        padding: 10px;
+        vertical-align: middle;
+        border: 1px solid #0066ff; /* Blue border around cells */
+    }
+    
+    .header-cell {
+        text-align: left;
+        font-weight: bold;
+        font-size: 1.2em;
+        padding-left: 10px;
+    }
+    
+    .left-column {
+        text-align: left;
+        vertical-align: top;
+        font-weight: bold;
+    }
+    
+    .right-column {
+        text-align: center;
+        vertical-align: middle;
+        padding: 0;
+    }
+    
+    .logo-image {
+        max-width: 100px; /* Adjust the logo size as needed */
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    /* Popup styles */
+    .popup {
+        display: none; /* Hidden by default */
+        position: fixed;
+        z-index: 9999; /* Higher z-index ensures popup is in front of other content */
+        left: 0;
+        top: 30px; /* Adjust this to add space from top */
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+        overflow: auto; /* Allows scrolling */
+    }
+
+    .popup-content {
+        background-color: white;
+        margin: 10% auto;
+        padding: 20px;
+        border: 1px solid #0066ff;
+        width: 80%; /* Makes the popup responsive */
+        max-width: 600px;
+        border-radius: 8px;
+        position: relative; /* Required for the close button positioning */
+        max-height: 80vh; /* Limit the height of the popup */
+        overflow-y: auto; /* Enables vertical scrolling */
+        z-index: 10000; /* Ensure the popup content is above the backdrop */
+    }
+
+    .close-btn {
+        color: #aaa;
+        font-size: 28px;
+        font-weight: bold;
+        position: absolute;
+        top: 10px;
+        right: 25px;
+        cursor: pointer;
+    }
+
+    .close-btn:hover,
+    .close-btn:focus {
+        color: black;
+        text-decoration: none;
+        cursor: pointer;
+    }
+
+    /* Responsive Design - Adjustments for smaller screens */
+    @media (max-width: 768px) {
+        .popup-content {
+            width: 90%; /* On smaller screens, the popup takes more width */
+            padding: 15px; /* Reduced padding for smaller screens */
+        }
+
+        .logo-image {
+            max-width: 80px; /* Make the logo smaller on smaller screens */
+        }
+
+        body {
+            padding-top: 60px; /* Adjust top margin for mobile to avoid overlap with fixed menus */
+        }
+    }
+
+    @media (max-width: 480px) {
+        .header-cell {
+            font-size: 1em; /* Smaller text for the header cell */
+        }
+        .custom-table td {
+            padding: 8px; /* Reduced padding for smaller screens */
+        }
+    }
+</style>
+
+<script>
+    // Function to show the popup
+    function showPopup() {
+        document.getElementById("popup").style.display = "block";
+    }
+
+    // Function to close the popup
+    function closePopup(event) {
+        // Prevent the event from propagating when the close button or popup content is clicked
+        if (event) event.stopPropagation();
+        
+        document.getElementById("popup").style.display = "none";
+    }
+
+    // Display today's date in the popup
+    window.onload = function() {
+        const today = new Date();
+        const formattedDate = today.toLocaleDateString('en-GB'); // Format the date as dd/mm/yyyy
+        document.getElementById('currentDate').textContent = formattedDate;
+    };
+</script>
