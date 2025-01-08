@@ -14,23 +14,28 @@ Welcome to HigherEduSpot, operated by Xolo Go OÜ ("we," "us," "our"). By access
 
 ### 1. **General Terms**
 
-#### 1.1 **Acceptance**: 
+#### 1.1 **Acceptance**:
+
 By using this website, you confirm your acceptance of these Terms and Conditions.
 
-#### 1.2 **Eligibility**: 
+#### 1.2 **Eligibility**:
+
 You must be at least 18 years old to use our services.
 
 ---
 
 ### 2. Payments
 
-#### 2.1 **Processor**: 
+#### 2.1 **Processor**:
+
 Payments for services provided by HigherEduSpot are processed through Xolo Go OÜ and/or Stripe.
 
-#### 2.2 **Timeline**: 
+#### 2.2 **Timeline**:
+
 Payments must be made within 7 days of receiving the invoice or confirmation.
 
-#### 2.3 **Non-Payment**: 
+#### 2.3 **Non-Payment**:
+
 Failure to make payments within the stipulated time may result in suspension or termination of services.
 
 ---
