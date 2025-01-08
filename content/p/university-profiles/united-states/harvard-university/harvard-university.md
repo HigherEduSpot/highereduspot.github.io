@@ -1,6 +1,6 @@
 ---
 weight: 130000
-title: "Harvard University"
+title: "Harvard University Profile"
 description: "Explore Harvard University's unparalleled academic offerings, groundbreaking research, and commitment to fostering global leaders."
 icon: database
 date: 2024-12-27T12:00:00+00:00

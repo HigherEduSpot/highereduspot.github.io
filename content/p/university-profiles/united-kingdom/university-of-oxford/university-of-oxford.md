@@ -1,6 +1,6 @@
 ---
 weight: 130000
-title: "University of Oxford"
+title: "University of Oxford Profile"
 description: "Explore the University of Oxford: A world-renowned institution known for its academic excellence, historic significance, and global impact."
 icon: database
 date: 2024-12-27T12:00:00+00:00

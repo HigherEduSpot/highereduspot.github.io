@@ -1,6 +1,6 @@
 ---
 weight: 130000
-title: "The Profile of University of Cambridge"
+title: "University of Cambridge Profile"
 description: "Discover the Legacy, Academic Excellence, and Global Impact of the University of Cambridge."
 icon: database
 date: 2024-12-27T12:00:00+00:00
