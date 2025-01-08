@@ -6,6 +6,7 @@ icon: database
 date: 2024-12-27T12:00:00+00:00
 categories: ["Education", "Universities", "Prestigious Institutions"]
 tags: ["Harvard", "Education", "Academic Excellence", "Leadership"]
+images: [/images/harvard.jpg]
 ---
 
 ## Harvard University: A Legacy of Excellence
