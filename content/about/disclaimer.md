@@ -21,4 +21,4 @@ The information provided on HigherEduSpot is for general informational purposes 
 - **User Responsibility**: Users are encouraged to verify the accuracy of information and make decisions based on their discretion.
 
 - **Content Ownership**: All trademarks, logos, and content used on HigherEduSpot are the property of their respective owners.
-By using our platform, you agree to this disclaimer. If you have any questions or concerns, please contact us at support@highereduspot.com.
+By using our platform, you agree to this disclaimer. If you have any questions or concerns, please contact us at disclaimer@highereduspot.com.

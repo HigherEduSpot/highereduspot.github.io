@@ -70,4 +70,4 @@ We may revise these Terms and Conditions at any time. Continued use of our servi
 ### 8. **Contact Information**
 
 If you have questions or concerns, please contact us at:
-Email: support@highereduspot.com
+Email: terms@highereduspot.com

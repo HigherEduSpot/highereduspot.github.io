@@ -6,4 +6,4 @@ icon: tab
 date: 2025-01-03T15:00:00+03:00
 ---
 
-Have questions or seeking assistance? You can contact us at support@highereduspot.com for support, inquiries, or feedback. We're happy to assist you make the most of your academic and career journey.
+Have questions or seeking assistance? You can contact us at contact@highereduspot.com for support, inquiries, or feedback. We're happy to assist you make the most of your academic and career journey.
