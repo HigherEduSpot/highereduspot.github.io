@@ -6,20 +6,27 @@ icon: database
 date: 2024-12-27T12:00:00+00:00
 categories: ["Education", "Universities", "Prestigious Institutions"]
 tags: ["Harvard", "Education", "Academic Excellence", "Leadership"]
-images: [/harvard.jpg]
+images: [https://highereduspot.github.io/harvard.jpg]
 ---
 
 Founded in 1636, **Harvard University** is the oldest institution of higher education in the United States and one of the most prestigious universities in the world. Nestled in the historic city of Cambridge, Massachusetts, Harvard is synonymous with academic rigor, groundbreaking research, and a commitment to developing global leaders.
 
-![Harvard University](/harvard.jpg)
+![Harvard University](https://highereduspot.github.io/harvard.jpg)
 
 ### Academics
+
+{{< figure src="/images/harvard.jpg" alt="Harvard University Campus" title="Harvard University" >}}
+
 
 Harvard offers an unparalleled range of academic programs, spanning undergraduate, graduate, and professional studies. With over **50 undergraduate concentrations** and more than **100 graduate fields of study**, the university is a beacon for intellectual exploration. Its faculty includes **Nobel laureates, Pulitzer Prize winners**, and leading experts who inspire innovation and thought leadership.
 
 ### Research and Innovation
 
+{{< figure src="/harvard.jpg" alt="Harvard University Campus" title="Harvard University" >}}
+
 As a hub for cutting-edge research, Harvard fosters innovation across disciplines. The university’s laboratories, libraries, and institutes support groundbreaking work in fields such as medicine, technology, business, law, and the arts. Harvard’s robust funding and collaborative environment empower scholars to address the world's most pressing challenges.
+
+{{< figure src="/static/images/harvard.jpg" alt="Harvard University Campus" title="Harvard University" >}}
 
 ### Campus and Community
 
