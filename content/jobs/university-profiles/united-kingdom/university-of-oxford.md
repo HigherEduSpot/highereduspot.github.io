@@ -6,9 +6,8 @@ icon: edit_document
 date: 2024-12-27T12:00:00+00:00
 categories: ["University Profiles", "United Kingdom Universities"]
 tags: ["University of Oxford", "Higher Education", "United Kingdom", "Top Universities"]
+images: [{{< figure src="/oxford-university.jpg" alt="University of Oxford Campus" title="University of Oxford" >}}]
 ---
-
-{{< figure src="/oxford-university.jpg" alt="University of Oxford Campus" title="University of Oxford" >}}
 
 The **University of Oxford**, located in Oxford, England, is one of the most prestigious and oldest universities in the world. With a history dating back to the 12th century, Oxford stands as a symbol of academic excellence, innovation, and cultural heritage.
 
