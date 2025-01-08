@@ -2,7 +2,7 @@
 weight: 130000
 title: "University of Oxford"
 description: "Explore the University of Oxford: A world-renowned institution known for its academic excellence, historic significance, and global impact."
-icon: edit_document
+icon: database
 date: 2024-12-27T12:00:00+00:00
 categories: ["University Profiles", "United Kingdom Universities"]
 tags: ["University of Oxford", "Higher Education", "United Kingdom", "Top Universities"]

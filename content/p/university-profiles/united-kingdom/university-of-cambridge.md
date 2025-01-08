@@ -2,7 +2,7 @@
 weight: 130000
 title: "University of Cambridge"
 description: "Discover the Legacy, Academic Excellence, and Global Impact of the University of Cambridge."
-icon: edit_document
+icon: database
 date: 2024-12-27T12:00:00+00:00
 ategories: ["University Profiles", "Global Universities", "United Kingdom"]
 tags: ["Cambridge", "Higher Education", "Research University", "Top Universities", "UK Universities"]

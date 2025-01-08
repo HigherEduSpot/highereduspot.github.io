@@ -2,7 +2,7 @@
 weight: 130000
 title: "Harvard University"
 description: "Explore Harvard University's unparalleled academic offerings, groundbreaking research, and commitment to fostering global leaders."
-icon: edit_document
+icon: database
 date: 2024-12-27T12:00:00+00:00
 categories: ["Education", "Universities", "Prestigious Institutions"]
 tags: ["Harvard", "Education", "Academic Excellence", "Leadership"]
