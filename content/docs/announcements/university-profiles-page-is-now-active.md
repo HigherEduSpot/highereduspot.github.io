@@ -1,6 +1,6 @@
 ---
 weight: 1001
-title: "Announcement: University Profiles Page is Now Active"
+title: "University Profiles Page is Now Active"
 description: "University Profiles page is now active on our website, offering detailed insights into top universities and their academic programs."
 icon: brand_awareness
 date: 2025-01-03T15:00:00+03:00
