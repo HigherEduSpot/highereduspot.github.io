@@ -4,7 +4,8 @@
     --text-color: black;
     --table-border-color: #ddd;
     --cell-background-color: #cc5103;
-    --title-background-color: transparent;
+    --title-background-color: black;
+    --title-text-color: white;
   }
 
   @media (prefers-color-scheme: dark) {
@@ -13,7 +14,8 @@
       --text-color: white;
       --table-border-color: #555;
       --cell-background-color: #cc5103;
-      --title-background-color: transparent;
+      --title-background-color: black;
+      --title-text-color: white;
     }
   }
 
@@ -27,47 +29,51 @@
   td, th {
     padding: 8px;
     border: 1px solid var(--table-border-color);
-    text-align: center;
-  }
-
-  td {
-    background-color: var(--cell-background-color);
   }
 
   th {
     background-color: var(--title-background-color);
-    text-transform: none !important;
+    color: var(--title-text-color);
+    text-align: center;
+  }
+
+  .left-align {
+    text-align: left;
+  }
+
+  .center-align {
+    text-align: center;
   }
 
   .logo-cell {
     width: 40px;
+  }
+
+  .premium-jobs {
+    background-color: var(--title-background-color);
+    color: var(--title-text-color);
     text-align: center;
+    padding: 12px 0;
+    font-weight: bold;
   }
 </style>
 
+<div class="premium-jobs">Premium Jobs</div>
 <table>
   <tr>
     <th>Position</th>
     <th>University</th>
-    <th>Location</th>
-    <th class="logo-cell">Logo (Image)</th>
+    <th>Logo</th>
   </tr>
   <tr>
-    <td><a href="#">Assistant / Associate Professor in Accounting (link)</a></td>
-    <td>Lingnan University</td>
-    <td>Hong Kong</td>
-    <td class="logo-cell"><img src="example-logo.png" alt="Logo" width="30" height="30"></td>
+    <td class="left-align">Assistant Professor of Management</td>
+    <td class="left-align">
+      Lingnan University<br>
+      Hong Kong<br>
+      Posted: day/mm/year<br>
+      Due Date: day/mm/year
+    </td>
+    <td class="center-align logo-cell"><img src="example-logo.png" alt="Logo" width="30" height="30"></td>
   </tr>
-  <tr>
-    <td><a href="#">example (link)</a></td>
-    <td>example</td>
-    <td>example</td>
-    <td class="logo-cell"><img src="example-logo.png" alt="Logo" width="30" height="30"></td>
-  </tr>
-  <tr>
-    <td><a href="#">example (link)</a></td>
-    <td>example</td>
-    <td>example</td>
-    <td class="logo-cell"><img src="example-logo.png" alt="Logo" width="30" height="30"></td>
-  </tr>
+  <!-- Add more rows as needed -->
 </table>
