@@ -35,9 +35,10 @@ hero:
     rounded: true # round the image corners? default 'false' (excludes .svg images)
 
   ctaButton:
-    icon: database
-    btnText: "Database"
-    url: "docs/"
+      icon: database
+      btnText: "Database"
+      url: "/docs/"
+
     
   cta2Button:
     icon: work
