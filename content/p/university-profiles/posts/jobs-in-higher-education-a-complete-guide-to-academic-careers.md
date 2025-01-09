@@ -1,5 +1,5 @@
 ---
-weight: 130000
+weight: 300010
 title: "Jobs in Higher Education: A Complete Guide to Academic Careers"
 description: "Explore the diverse job opportunities in higher education, including faculty positions, administrative roles, research jobs, and more. Learn how to find the right career path in academia."
 icon: database
