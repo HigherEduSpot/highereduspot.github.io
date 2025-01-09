@@ -12,22 +12,24 @@ HigherEduSpot is dedicated to connecting educational institutions with talented 
 
 ---
 
-## For Universities
+### For Universities
 Submitting job advertisements on HigherEduSpot is a simple process. By sharing your job listings with us, you gain access to a diverse and qualified audience actively seeking opportunities in higher education. This is an excellent opportunity to attract top talent for your institution.
 
 ---
 
-## For Job Seekers
+### For Job Seekers
 Our Jobs in Higher Education page is designed to help you find your next career move in academia. With listings updated regularly, you can explore various roles that match your qualifications and aspirations.
 
 Visit HigherEduSpot's Jobs in Higher Education page today to explore current job openings or to submit your institution's job advertisements. Let's work together to advance academic careers and support the growth of higher education institutions.
 
 ---
 
-## Contact Us
+### Contact Us
 For any inquiries or further information, please reach out to our support team at [support email] or visit our website at [https://highereduspot.com](https://highereduspot.com).
 
 We look forward to serving the higher education community through this new feature on HigherEduSpot.
+
+---
 
 ### Keywords
 - **Jobs in Higher Education**: Explore a wide range of academic job opportunities on HigherEduSpot.

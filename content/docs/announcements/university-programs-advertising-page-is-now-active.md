@@ -34,6 +34,8 @@ Whether you're offering undergraduate degrees, specialized master's programs, or
 - **Global Reach**: Our platform connects universities with students from diverse backgrounds and locations, giving your institution global exposure.
 - **Easy Submission**: Universities can easily submit their programs to be featured on our site, with user-friendly tools to update and manage program information.
 
+---
+
 ### Program Highlights
 
 If you're offering highly sought-after programs such as **Bachelor’s in Economics**, **Master's in Public Health**, or **Ph.D. in Law**, this page is the perfect place to attract potential applicants. With detailed listings that include essential information such as course content, application deadlines, tuition fees, and program highlights, students can make informed decisions about their academic future.
