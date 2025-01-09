@@ -1,10 +1,10 @@
 <style>
   :root {
     --background-color: white;
-    --text-color: #cc5103;
+    --text-color: black;
     --table-border-color: #ddd;
     --cell-background-color: #cc5103;
-    --title-background-color: black;
+    --title-background-color: #cc5103;
     --title-text-color: white;
   }
 
@@ -14,7 +14,7 @@
       --text-color: white;
       --table-border-color: #555;
       --cell-background-color: #cc5103;
-      --title-background-color: black;
+      --title-background-color: #cc5103;
       --title-text-color: white;
     }
   }
@@ -34,26 +34,22 @@
   th {
     background-color: var(--title-background-color);
     color: var(--title-text-color);
-    text-align: center;
+    text-align: left;
   }
 
   .left-align {
     text-align: left;
   }
 
-  .center-align {
-    text-align: center;
-  }
-
-  .logo-cell {
-    width: 40px;
+  .bold-text {
+    font-weight: bold;
   }
 
   .premium-jobs {
     background-color: var(--title-background-color);
     color: var(--title-text-color);
-    text-align: center;
-    padding: 12px 0;
+    text-align: left;
+    padding: 12px;
     font-weight: bold;
   }
 </style>
@@ -63,17 +59,15 @@
   <tr>
     <th>Position</th>
     <th>University</th>
-    <th>Logo</th>
   </tr>
   <tr>
-    <td class="left-align">Assistant Professor of Management</td>
+    <td class="left-align"><a href="#">Assistant Professor of Management</a></td>
     <td class="left-align">
       Lingnan University<br>
       Hong Kong<br>
-      Posted: day/mm/year<br>
-      Due Date: day/mm/year
+      <span class="bold-text">Posted:</span> day/mm/year<br>
+      <span class="bold-text">Due Date:</span> day/mm/year
     </td>
-    <td class="center-align logo-cell"><img src="example-logo.png" alt="Logo" width="30" height="30"></td>
   </tr>
   <!-- Add more rows as needed -->
 </table>
