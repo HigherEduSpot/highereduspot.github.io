@@ -27,19 +27,12 @@ hero:
   title: "HigherEduSpot"
   subtitle: "Welcome to HigherEduSpot. Connecting You to University Profiles, Jobs in Higher Education, and Program Database."
 
-gif_image:
-  path: "images"          # Correct path to the image
-  filename: "advertisement.gif"  # Filename including extension
-  alt: "Business Schools Jobs"    # Alt text
-  boxShadow: true           # Optional boolean value for box shadow
-  rounded: true             # Optional boolean value for rounded corners
-
-# png_image:
-  #path: "images"
-  #filename: "example.png"
-  #alt: "Business Schools PNG"
-  #boxShadow: true
-  #rounded: false
+  image:
+    path: "images" # path to image under configured assets directory. default 'images'
+    filename: "advertisement.gif" # filename of your hero image (including file extension)
+    alt: "Business Scholos Jobs" # Optional but recommended
+    boxShadow: true # default 'false' (excludes .svg images)
+    rounded: true # round the image corners? default 'false' (excludes .svg images)
 
   cta2Button:
     icon: work
