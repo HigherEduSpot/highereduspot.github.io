@@ -26,7 +26,7 @@ A Ph.D. (Doctor of Philosophy) is the highest academic degree awarded by univers
 
 ### 2. **Ph.D. Degrees Around the World**
 
-#### 2.1 **United Kingdom**
+#### 2.1 **United Kingdom**
 
 - **Duration**: Typically 3 to 4 years full-time or 6 to 7 years part-time.
 
