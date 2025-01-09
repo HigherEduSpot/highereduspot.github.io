@@ -34,10 +34,10 @@ hero:
     boxShadow: true # default 'false' (excludes .svg images)
     rounded: true # round the image corners? default 'false' (excludes .svg images)
 
-  cta1Button:
+  ctaButton:
     icon: database
     btnText: "Database"
-    url: "/docs/"
+    url: "docs/"
     
   cta2Button:
     icon: work
