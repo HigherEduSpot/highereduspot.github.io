@@ -34,6 +34,11 @@ hero:
     boxShadow: true # default 'false' (excludes .svg images)
     rounded: true # round the image corners? default 'false' (excludes .svg images)
 
+  ctaButton:
+    icon: rocket_launch
+    btnText: "Get Started"
+    url: "/database/"
+    
   cta2Button:
     icon: work
     btnText: "Search Jobs"
