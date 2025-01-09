@@ -8,6 +8,38 @@ tags: ["higher education", "academic careers", "college education", "university 
 categories: ["education", "higher education"]
 ---
 
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  td {
+    padding: 8px;
+    border: 1px solid #ddd;
+  }
+  .blue-cell {
+    background-color: lightblue;
+  }
+  .green-cell {
+    background-color: lightgreen;
+  }
+
+  /* Ensure table headers are not capitalized */
+th {
+    text-transform: none !important;
+}
+
+</style>
+
+| Name         | Age | City        |
+|--------------|-----|-------------|
+| <td class="blue-cell">Alice</td> | 25  | New York   |
+| <td class="green-cell">Bob</td>  | 30  | Los Angeles|
+| <td class="blue-cell">Charlie</td> | 35  | Chicago    |
+
+
+
+
 # All About Higher Education: A Comprehensive Guide to Academic Opportunities
 
 Higher education is a vital component of personal, professional, and societal growth. Whether you are considering enrolling in a bachelor's program, pursuing a master's degree, or completing a Ph.D., higher education offers countless opportunities to further your knowledge and career. This guide explores the various facets of higher education, including types of programs, career paths, global trends, and the challenges that come with pursuing advanced education.
