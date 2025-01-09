@@ -1,7 +1,7 @@
 ---
 weight: 300000
-title: "United States"
-description: "Explore top universities in the United States, renowned for academic excellence and innovation across diverse fields."
+title: "A List of the Top Universities in the United States"
+description: "Explore a list of the top universities in the United States, known for their academic excellence and innovation across a wide range of disciplines."
 icon: database
 date: 2024-12-27T12:00:00+00:00
 ---
