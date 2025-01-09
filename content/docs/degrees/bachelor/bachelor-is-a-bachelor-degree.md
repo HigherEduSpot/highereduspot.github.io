@@ -112,6 +112,8 @@ A bachelor's degree is an undergraduate academic qualification awarded by univer
 
 ---
 
+{{< yandex/partner >}}
+
 ### 4. **Choosing the Right Bachelor's Program**
 
 - **Identify Your Interests**: Reflect on your strengths, passions, and career aspirations.
