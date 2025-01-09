@@ -39,7 +39,6 @@ hero:
       btnText: "Search Jobs"
       url: "/p/"
 
-    
   cta2Button:
     icon: database
     btnText: "Database"
