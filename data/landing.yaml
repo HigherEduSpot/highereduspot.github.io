@@ -27,7 +27,7 @@ hero:
   title: "HigherEduSpot"
   subtitle: "Welcome to HigherEduSpot. Connecting You to University Profiles, Jobs in Higher Education, and Program Database."
 
-  image:
+gif_image:
     path: "images" # path to image under configured assets directory. default 'images'
     filename: "advertisement.gif" # filename of your hero image (including file extension)
     alt: "Business Scholos Jobs" # Optional but recommended
