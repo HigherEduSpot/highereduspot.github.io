@@ -29,7 +29,7 @@ hero:
 
   image:
     path: "images" # path to image under configured assets directory. default 'images'
-    filename: "businessschoolsjobs.png" # filename of your hero image (including file extension)
+    filename: "advertisement.gif" # filename of your hero image (including file extension)
     alt: "Business Scholos Jobs" # Optional but recommended
     boxShadow: true # default 'false' (excludes .svg images)
     rounded: true # round the image corners? default 'false' (excludes .svg images)
