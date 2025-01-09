@@ -1,0 +1,67 @@
+<style>
+  :root {
+    --background-color: white;
+    --text-color: black;
+    --table-border-color: #ddd;
+    --cell-background-color: #cc5103;
+    --title-background-color: transparent;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --background-color: #333;
+      --text-color: white;
+      --table-border-color: #555;
+      --cell-background-color: #cc5103;
+      --title-background-color: transparent;
+    }
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: var(--background-color);
+    color: var(--text-color);
+  }
+
+  td, th {
+    padding: 8px;
+    border: 1px solid var(--table-border-color);
+  }
+
+  td {
+    background-color: var(--cell-background-color);
+  }
+
+  th {
+    background-color: var(--title-background-color);
+    text-transform: none !important;
+  }
+</style>
+
+<table>
+  <tr>
+    <th>Position</th>
+    <th>University</th>
+    <th>Location</th>
+    <th>Logo (Image)</th>
+  </tr>
+  <tr>
+    <td><a href="#">example (link)</a></td>
+    <td>example</td>
+    <td>example</td>
+    <td>example</td>
+  </tr>
+  <tr>
+    <td><a href="#">example (link)</a></td>
+    <td>example</td>
+    <td>example</td>
+    <td>example</td>
+  </tr>
+  <tr>
+    <td><a href="#">example (link)</a></td>
+    <td>example</td>
+    <td>example</td>
+    <td>example</td>
+  </tr>
+</table>

@@ -29,15 +29,6 @@ th {
     text-transform: none !important;
 }
 
-</style>
-
-| Name         | Age | City        |
-|--------------|-----|-------------|
-| <td class="blue-cell">Alice</td> | 25  | New York   |
-| <td class="green-cell">Bob</td>  | 30  | Los Angeles|
-| <td class="blue-cell">Charlie</td> | 35  | Chicago    |
-
-
 
 
 # All About Higher Education: A Comprehensive Guide to Academic Opportunities
