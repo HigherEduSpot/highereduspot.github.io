@@ -23,7 +23,7 @@ For any inquiries or further information, please reach out to our support team a
 
 We look forward to serving the higher education community through this new feature on HigherEduSpot.
 
-{{< keywords >}}
+### Keywords
 - **University Profiles**: Advertise your university's profile on HigherEduSpot.
 - **HigherEduSpot**: A platform for higher education institutions to showcase their profiles.
 - **Premium Listings**: Gain enhanced visibility with premium listings on HigherEduSpot.
@@ -32,4 +32,3 @@ We look forward to serving the higher education community through this new featu
 - **Educational Institutions**: Universities can advertise their profiles on HigherEduSpot.
 - **Prospective Students**: Attract students by showcasing your university's strengths.
 - **Academic Professionals**: Reach out to potential faculty and staff through your profile.
-{{< /keywords >}}

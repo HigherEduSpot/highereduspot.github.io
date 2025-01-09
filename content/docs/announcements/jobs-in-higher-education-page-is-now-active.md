@@ -30,7 +30,6 @@ For any inquiries or further information, please reach out to our support team a
 We look forward to serving the higher education community through this new feature on HigherEduSpot.
 
 ### Keywords
-
 - **Jobs in Higher Education**: Explore a wide range of academic job opportunities on HigherEduSpot.
 - **HigherEduSpot**: A comprehensive platform for higher education job advertisements.
 - **Postdoctoral Roles**: Submit or find postdoctoral positions in various disciplines.
