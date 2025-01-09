@@ -8,28 +8,7 @@ tags: ["higher education", "academic careers", "college education", "university 
 categories: ["education", "higher education"]
 ---
 
-<style>
-  table {
-    width: 100%;
-    border-collapse: collapse;
-  }
-  td {
-    padding: 8px;
-    border: 1px solid #ddd;
-  }
-  .blue-cell {
-    background-color: lightblue;
-  }
-  .green-cell {
-    background-color: lightgreen;
-  }
-
-  /* Ensure table headers are not capitalized */
-th {
-    text-transform: none !important;
-}
-
-
+{{< jobs/re-9 >}}
 
 # All About Higher Education: A Comprehensive Guide to Academic Opportunities
 
