@@ -1,7 +1,7 @@
 baseURL = 'https://highereduspot.github.io/'
 languageCode = 'en-us'
 
-title = 'All About Higher Education - HigherEduSpot'
+title = 'HigherEduSpot'
 
 [module]
     [[module.imports]]
