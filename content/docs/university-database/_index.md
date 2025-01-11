@@ -1,5 +1,5 @@
 ---
-weight: 9000
+weight: 30000
 title: "University Database"
 description: "Your Global Directory of Higher Education Institutions"
 icon: database

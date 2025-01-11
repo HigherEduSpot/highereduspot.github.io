@@ -1,5 +1,5 @@
 ---
-weight: 10000
+weight: 30001
 title: "TheUniPrograms"
 description: "Connecting You to Worldwide Higher Education Opportunities in the United States"
 icon: database

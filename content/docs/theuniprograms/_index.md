@@ -1,7 +1,7 @@
 ---
 weight: 10000
 date: 2024-12-27T12:00:00+00:00
-author: "ExploreUniPrograms"
+author: "Theuniprograms"
 title: "Degrees"
 icon: travel_explore
 description: "ExploreUni: Connecting You to Worldwide Higher Education Opportunities"

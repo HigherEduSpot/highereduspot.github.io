@@ -41,7 +41,7 @@ hero:
 
   cta2Button:
     icon: travel_explore
-    btnText: "ExploreUniPrograms"
+    btnText: "Theuniprograms"
     url: "/docs/"
 
   info: "**MIT Licensed.**"
