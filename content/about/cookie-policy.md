@@ -1,5 +1,5 @@
 ---
-weight: 60
+weight: 91
 title: "Cookie Policy"
 description: "The types of cookies we use"
 icon: tab
