@@ -4,7 +4,6 @@ title: "How to Stand Out in Business School Faculty Applications"
 description: "Securing a faculty position at a prestigious business school is a competitive process."
 icon: edit_note
 date: 2025-01-03T15:00:00+03:00
-images: []
 ---
 
 **Published**: 03.01.2025 <br> **Time**: 15:00 (UTC+3) <br> **Author**: Business Schools Jobs

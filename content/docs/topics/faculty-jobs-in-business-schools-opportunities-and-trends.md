@@ -4,7 +4,6 @@ title: "Faculty Jobs in Business Schools: Opportunities and Emerging Trends"
 description: "As global economies become more complex, the demand for highly skilled educators and researchers in business disciplines continues to grow."
 icon: edit_note
 date: 2025-01-03T15:00:00+03:00
-images: []
 ---
 
 **Published**: 03.01.2025 <br> **Time**: 15:00 (UTC+3) <br> **Author**: Business Schools Jobs

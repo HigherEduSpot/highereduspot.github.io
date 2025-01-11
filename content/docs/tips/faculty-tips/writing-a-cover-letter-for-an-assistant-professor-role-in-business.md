@@ -4,7 +4,6 @@ title: "Writing a Cover Letter for an Assistant Professor Role in Business"
 description: "How to write a cover letter for an assistant professor role in business?"
 icon: edit_note
 date: 2025-01-03T15:00:00+03:00
-images: []
 ---
 
 **Published**: 03.01.2025 <br> **Time**: 15:00 (UTC+3) <br> **Author**: Business Schools Jobs
