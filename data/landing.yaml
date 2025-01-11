@@ -41,8 +41,8 @@ hero:
 
   cta2Button:
     icon: database
-    btnText: "TheUniPrograms"
-    url: "/theuniprograms/"
+    btnText: "HigherEduPrograms"
+    url: "/highereduprograms/"
 
   info: "**MIT Licensed.**"
 
