@@ -1,5 +1,5 @@
 ---
-weight: 10100
+weight: 1000
 title: "Medical Schools"
 description: "Your Global Directory of Medical Schools"
 icon: travel_explore

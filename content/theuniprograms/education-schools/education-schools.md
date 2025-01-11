@@ -1,5 +1,5 @@
 ---
-weight: 10100
+weight: 601
 title: "Education Schools"
 description: "Explore Education Schools"
 icon: travel_explore

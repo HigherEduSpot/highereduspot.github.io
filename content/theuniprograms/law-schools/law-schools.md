@@ -1,5 +1,5 @@
 ---
-weight: 10100
+weight: 901
 title: "Law Schools"
 description: "Explore Law Schools"
 icon: travel_explore

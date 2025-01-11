@@ -1,5 +1,5 @@
 ---
-weight: 10100
+weight: 1201
 title: "Social Science Schools"
 description: "Explore Social Science Schools"
 icon: travel_explore

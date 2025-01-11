@@ -1,5 +1,5 @@
 ---
-weight: 10100
+weight: 900
 title: "Law Schools"
 description: "Your Global Directory of Law Schools"
 icon: travel_explore

@@ -1,5 +1,5 @@
 ---
-weight: 10100
+weight: 1100
 title: "Science Schools"
 description: "Your Global Directory of Science Schools"
 icon: travel_explore

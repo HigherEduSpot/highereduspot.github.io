@@ -1,5 +1,5 @@
 ---
-weight: 10100
+weight: 500
 title: "Economics Schools"
 description: "Your Global Directory of Economics Schools"
 icon: travel_explore

@@ -1,5 +1,5 @@
 ---
-weight: 10100
+weight: 401
 title: "Computer Science Schools"
 description: "Explore Computer Science Schools"
 icon: travel_explore

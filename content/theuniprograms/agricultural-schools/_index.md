@@ -1,5 +1,5 @@
 ---
-weight: 10100
+weight: 100
 title: "Agricultural Schools"
 description: "Your Global Directory of Agricultural Schools"
 icon: travel_explore

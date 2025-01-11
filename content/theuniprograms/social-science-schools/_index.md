@@ -1,5 +1,5 @@
 ---
-weight: 10100
+weight: 1200
 title: "Social Science Schools"
 description: "Your Global Directory of Social Science Schools"
 icon: travel_explore

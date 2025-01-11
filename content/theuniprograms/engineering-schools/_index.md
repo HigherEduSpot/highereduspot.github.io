@@ -1,5 +1,5 @@
 ---
-weight: 10100
+weight: 700
 title: "Engineering Schools"
 description: "Your Global Directory of Business Schools"
 icon: travel_explore

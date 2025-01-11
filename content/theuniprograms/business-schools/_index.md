@@ -1,5 +1,5 @@
 ---
-weight: 10100
+weight: 200
 title: "Economics Schools"
 description: "Your Global Directory of Computer Science Schools"
 icon: travel_explore

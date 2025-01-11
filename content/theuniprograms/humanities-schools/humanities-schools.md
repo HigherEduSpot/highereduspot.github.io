@@ -1,5 +1,5 @@
 ---
-weight: 10100
+weight: 801
 title: "Humanities Schools"
 description: "Explore Humanities Schools"
 icon: travel_explore

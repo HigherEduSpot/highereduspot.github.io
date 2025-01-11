@@ -1,5 +1,5 @@
 ---
-weight: 10100
+weight: 1101
 title: "Science Schools"
 description: "Explore Science Schools"
 icon: travel_explore

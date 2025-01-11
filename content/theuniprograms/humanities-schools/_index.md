@@ -1,5 +1,5 @@
 ---
-weight: 10100
+weight: 800
 title: "Humanities Schools"
 description: "Your Global Directory of Business Schools"
 icon: travel_explore

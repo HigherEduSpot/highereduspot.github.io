@@ -1,5 +1,5 @@
 ---
-weight: 10100
+weight: 2001
 title: "Economics Schools"
 description: "Explore Economics Schools"
 icon: travel_explore

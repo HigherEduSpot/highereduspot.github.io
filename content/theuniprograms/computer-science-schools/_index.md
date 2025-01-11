@@ -1,5 +1,5 @@
 ---
-weight: 10100
+weight: 300
 title: "Computer Science Schools"
 description: "Your Global Directory of Computer Science Schools"
 icon: travel_explore

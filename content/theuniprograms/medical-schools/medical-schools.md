@@ -1,5 +1,5 @@
 ---
-weight: 10100
+weight: 1001
 title: "Medical Schools"
 description: "Explore Medical Schools"
 icon: travel_explore

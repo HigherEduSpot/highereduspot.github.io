@@ -1,5 +1,5 @@
 ---
-weight: 10100
+weight: 101
 title: "Agricultural Schools"
 description: "Explore Agricultural Schools"
 icon: travel_explore
