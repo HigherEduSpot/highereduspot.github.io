@@ -36,8 +36,8 @@ hero:
 
   ctaButton:
       icon: work
-      btnText: "Search Jobs"
-      url: "/p/"
+      btnText: "HigherEduJobs"
+      url: "/higheredujobs/"
 
   cta2Button:
     icon: travel_explore
