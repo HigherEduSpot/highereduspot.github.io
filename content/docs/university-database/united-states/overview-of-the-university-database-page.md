@@ -1,6 +1,6 @@
 ---
-weight: 130001
-title: "Overview of the University Database Page"
+weight: 100001
+title: "Overview"
 description: "Explore Comprehensive Profiles of Universities Worldwide"
 icon: database
 date: 2024-12-27T12:00:00+00:00

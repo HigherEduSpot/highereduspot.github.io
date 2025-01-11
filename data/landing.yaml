@@ -40,8 +40,8 @@ hero:
       url: "/p/"
 
   cta2Button:
-    icon: school
-    btnText: "Programs"
+    icon: travel_explore
+    btnText: "ExploreUniPrograms"
     url: "/docs/"
 
   info: "**MIT Licensed.**"

@@ -1,8 +1,8 @@
 ---
-weight: 300000
+weight: 100011
 title: "A List of the Top Universities in the United States"
 description: "Explore a list of the top universities in the United States, known for their academic excellence and innovation across a wide range of disciplines."
-icon: database
+icon: travel_explore
 date: 2024-12-27T12:00:00+00:00
 ---
 

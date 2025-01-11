@@ -99,7 +99,7 @@ title = 'HigherEduSpot'
     weight = 20
 
 [[menu.primary]]
-     name  = "Programs"
+     name  = "TheUniPrograms"
      url = "/docs/"
      identifier = "docs"
      weight = 30
