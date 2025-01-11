@@ -1,5 +1,5 @@
 ---
-weight: 1001
+weight: 10003
 title: "Writing Business School Professor Job Description: An Example"
 description: "Following is an example for writing business school professor job description."
 icon: edit_note

@@ -1,5 +1,5 @@
 ---
-weight: 20000
+weight: 1000
 title: "Guidance"
 description: "HigherEduSpot Guidance provides expert advice to support users in making informed decisions and achieving success in their educational and career pursuits."
 icon: select_check_box

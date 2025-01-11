@@ -1,5 +1,5 @@
 ---
-weight: 5001
+weight: 40
 title: "Business Schools Jobs Community Discussion Page at GitHub"
 description: "Our Discussion Page at GitHub is a vibrant platform designed to connect educators, researchers, and professionals in the field of business academia."
 icon: edit_note

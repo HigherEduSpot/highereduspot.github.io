@@ -1,5 +1,5 @@
 ---
-weight: 19001
+weight: 7001
 title: "Overview of the Tips"
 description: "Practical Advice for Success in Higher Education and Careers"
 icon: lightbulb

@@ -1,5 +1,5 @@
 ---
-weight: 39000
+weight: 5000
 date: 2024-12-27T12:00:00+00:00
 author: "HigherEduSpot"
 title: "Ph.D."

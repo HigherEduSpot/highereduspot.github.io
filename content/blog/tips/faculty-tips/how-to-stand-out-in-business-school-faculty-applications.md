@@ -1,5 +1,5 @@
 ---
-weight: 1001
+weight: 10001
 title: "How to Stand Out in Business School Faculty Applications"
 description: "Securing a faculty position at a prestigious business school is a competitive process."
 icon: edit_note

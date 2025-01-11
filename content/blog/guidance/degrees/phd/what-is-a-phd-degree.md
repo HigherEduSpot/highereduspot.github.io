@@ -1,5 +1,5 @@
 ---
-weight: 39001
+weight: 5001
 title: "What is a Ph.D. Degree?"
 description: "A detailed guide to understanding Ph.D. degrees in the UK, USA, and globally."
 icon: edit_note

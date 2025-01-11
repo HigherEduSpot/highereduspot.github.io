@@ -1,5 +1,5 @@
 ---
-weight: 37000
+weight: 3000
 date: 2024-12-27T12:00:00+00:00
 author: "HigherEduSpot"
 title: "Master"

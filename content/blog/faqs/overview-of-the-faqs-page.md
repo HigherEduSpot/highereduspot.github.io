@@ -1,5 +1,5 @@
 ---
-weight: 10001
+weight: 101
 title: "Overview of the FAQs Page"
 description: "Answers to Your Most Common Higher Education Questions"
 icon: quiz

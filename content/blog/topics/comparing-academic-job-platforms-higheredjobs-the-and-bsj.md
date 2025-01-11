@@ -1,5 +1,5 @@
 ---
-weight: 7001
+weight: 1102
 title: "Comparing Academic Job Platforms: HigherEdJobs, THE, and BSJ"
 description: "Finding the right platform to explore academic job opportunities is a crucial step for professionals aiming to advance their careers."
 icon: edit_note

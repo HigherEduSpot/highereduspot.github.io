@@ -1,5 +1,5 @@
 ---
-weight: 10000
+weight: 100
 title: "FAQs"
 description: "Your Go-To Resource for Frequently Asked Questions in Higher Education"
 icon: quiz

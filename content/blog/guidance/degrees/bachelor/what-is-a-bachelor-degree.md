@@ -1,5 +1,5 @@
 ---
-weight: 33001
+weight: 1004
 title: "What is a Bachelor's Degree?"
 description: "A detailed guide to understanding bachelor's degrees in the UK, USA, and globally."
 icon: edit_note

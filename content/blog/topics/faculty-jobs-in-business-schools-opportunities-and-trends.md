@@ -1,5 +1,5 @@
 ---
-weight: 7001
+weight: 1103
 title: "Faculty Jobs in Business Schools: Opportunities and Emerging Trends"
 description: "As global economies become more complex, the demand for highly skilled educators and researchers in business disciplines continues to grow."
 icon: edit_note

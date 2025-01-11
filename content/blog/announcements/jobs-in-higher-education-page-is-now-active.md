@@ -1,5 +1,5 @@
 ---
-weight: 1001
+weight: 41
 title: "Jobs in Higher Education Page is Now Active"
 description: "The Jobs in Higher Education page is now live on our website, providing a comprehensive resource for job seekers in the academic world."
 icon: brand_awareness

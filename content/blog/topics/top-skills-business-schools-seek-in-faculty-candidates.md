@@ -1,5 +1,5 @@
 ---
-weight: 7001
+weight: 1106
 title: "Top Skills Business Schools Seek in Faculty Candidates"
 description: "Business schools are renowned for their commitment to academic rigor and real-world impact."
 icon: edit_note
