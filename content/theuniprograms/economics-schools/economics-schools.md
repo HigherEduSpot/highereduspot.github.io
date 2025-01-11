@@ -2,7 +2,7 @@
 weight: 10100
 title: "Economics Schools"
 description: "Explore Economics Schools"
-icon: schools
+icon: travel_explore
 date: 2024-12-27T12:00:00+00:00
 ---
 
