@@ -37,7 +37,7 @@ title = 'HigherEduSpot'
   mono_font       = "Fira Code" # Default is System font
 
     [params.footer]
-        copyright = "© :YEAR: Higher Education Spot - HigherEduSpot."
+        copyright = "© :YEAR: HigherEduSpot."
         version   = true # include git commit info in footer
 
     [params.social]
@@ -99,7 +99,7 @@ title = 'HigherEduSpot'
     weight = 20
 
 [[menu.primary]]
-     name  = "Database"
+     name  = "Programs"
      url = "/docs/"
      identifier = "docs"
      weight = 30
