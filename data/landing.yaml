@@ -36,13 +36,13 @@ hero:
 
   ctaButton:
       icon: work
-      btnText: "Search Jobs"
-      url: "/p/"
+      btnText: "HigherEduJobs"
+      url: "/higheredujobs/"
 
   cta2Button:
     icon: database
-    btnText: "Database"
-    url: "/docs/"
+    btnText: "TheUniPrograms"
+    url: "/theuniprograms/"
 
   info: "**MIT Licensed.**"
 
