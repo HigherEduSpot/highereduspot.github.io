@@ -1,5 +1,5 @@
 ---
-weight: 170000
+weight: 400001
 title: "Student Tips"
 description: "HigherEduSpot Student Tips offer advice on exploring programs for your academic journey."
 icon: lightbulb

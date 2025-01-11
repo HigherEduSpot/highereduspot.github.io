@@ -1,5 +1,5 @@
 ---
-weight: 100000
+weight: 110000
 title: "Tutorials"
 description: "HigherEduSpot Tutorials provide step-by-step guidance to help you navigate the platform, post listings, and explore educational and career opportunities."
 icon: cast_for_education

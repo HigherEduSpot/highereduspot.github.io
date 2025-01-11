@@ -1,5 +1,5 @@
 ---
-weight: 500000
+weight: 7000
 title: "Topics"
 description: "Topics at Business Schools"
 icon: tab

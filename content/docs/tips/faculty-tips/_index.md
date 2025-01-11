@@ -1,5 +1,5 @@
 ---
-weight: 190000
+weight: 44000
 title: "Faculty Tips"
 description: "HigherEduSpot Faculty Tips provide guidance on navigating faculty job opportunities, crafting standout applications, and advancing your academic career."
 icon: lightbulb

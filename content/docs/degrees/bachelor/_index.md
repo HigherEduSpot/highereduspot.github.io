@@ -1,5 +1,5 @@
 ---
-weight: 5000
+weight: 33000
 date: 2024-12-27T12:00:00+00:00
 author: "HigherEduSpot"
 title: "Bachelor"

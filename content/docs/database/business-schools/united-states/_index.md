@@ -1,5 +1,5 @@
 ---
-weight: 130000
+weight: 10200
 title: "Business Schools"
 description: "Your Global Directory for Business Schools"
 icon: database

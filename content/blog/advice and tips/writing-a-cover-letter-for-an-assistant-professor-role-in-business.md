@@ -1,5 +1,5 @@
 ---
-weight: 690000
+weight: 1001
 title: "Writing a Cover Letter for an Assistant Professor Role in Business"
 description: "How to write a cover letter for an assistant professor role in business?"
 icon: edit_note

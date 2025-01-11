@@ -1,5 +1,5 @@
 ---
-weight: 300000
+weight: 15000
 title: "Top Business Schools in the United States"
 description: "A comprehensive list of business schools across the United States, categorized by state."
 icon: database

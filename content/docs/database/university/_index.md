@@ -1,5 +1,5 @@
 ---
-weight: 30001
+weight: 17000
 title: "University Database"
 description: "Connecting You to Worldwide Higher Education Opportunities"
 icon: database

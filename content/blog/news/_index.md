@@ -1,5 +1,5 @@
 ---
-weight: 300000
+weight: 5000
 title: "News"
 description: "News at Business Schools"
 icon: tab

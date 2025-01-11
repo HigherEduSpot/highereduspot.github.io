@@ -1,5 +1,5 @@
 ---
-weight: 100001
+weight: 110001
 title: "Overview of the Tutorials Page"
 description: "Step-by-Step Guides for Navigating Higher Education"
 icon: cast_for_education

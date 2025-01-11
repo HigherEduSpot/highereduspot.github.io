@@ -1,5 +1,5 @@
 ---
-weight: 7001
+weight: 37001
 title: "What is a Master's Degree?"
 description: "A detailed guide to understanding master's degrees in the UK, USA, and globally."
 icon: edit_note

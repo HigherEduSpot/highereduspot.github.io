@@ -1,5 +1,5 @@
 ---
-weight: 700000
+weight: 1000
 title: "Advice and Tips"
 description: "Advice and Tips at Business Schools Jobs"
 icon: tab
