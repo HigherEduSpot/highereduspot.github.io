@@ -4,7 +4,7 @@
     <title>HigherEduSpot</title>
     <link>http://localhost:1313/</link>
     <description>Contents on HigherEduSpot</description>
-    <generator>Hugo</generator>
+    <generator>HigherEduSpot</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
