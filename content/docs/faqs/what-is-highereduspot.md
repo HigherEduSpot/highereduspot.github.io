@@ -12,7 +12,7 @@ faq:
     answer: "You can apply through the application form on our program pages."
 ---
 
-{{< faq-json-ld faq=".Params.faq" >}}
+{{< faq-json-ld >}}
 
 ## Frequently Asked Questions
 
