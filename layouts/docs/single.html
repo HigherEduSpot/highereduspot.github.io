@@ -5,28 +5,6 @@
         {{ .Content }}
     </div>
 
-    <!-- Add the FAQ schema (JSON-LD) to the head for FAQ pages -->
-    {{ if eq .Type "faq" }}
-        <script type="application/ld+json">
-        {
-          "@context": "https://schema.org",
-          "@type": "FAQPage",
-          "mainEntity": [
-            {{ range .Params.faq }}
-            {
-              "@type": "Question",
-              "name": "{{ .question }}",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "{{ .answer }}"
-              }
-            }
-            {{ end }}
-          ]
-        }
-        </script>
-    {{ end }}
-
     {{ if and .GitInfo .Site.Params.docs.repoURL -}}
         {{ partial (printf "%s/%s" ($.Scratch.Get "pathName") "gitinfo") . }}
     {{ end -}}

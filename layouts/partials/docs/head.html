@@ -34,6 +34,29 @@
 
      <meta name="google-adsense-account" content="ca-pub-8307825352977967">
 
+     {{ if .Params.faq }}
+     <script type="application/ld+json">
+     {
+         "@context": "https://schema.org",
+         "@type": "FAQPage",
+         "mainEntity": [
+             {{ range .Params.faq }}
+                 {
+                     "@type": "Question",
+                     "name": "{{ .question }}",
+                     "acceptedAnswer": {
+                         "@type": "Answer",
+                         "text": "{{ .answer }}"
+                     }
+                 }
+                 {{ if ne (add 1 (index .Params.faq)) (len .Params.faq) }},{{ end }}
+             {{ end }}
+         ]
+     }
+     </script>
+   {{ end }}
+   
+
      <meta name="yandex-verification" content="bea5f5d9c9caf04a" />
 
      <!-- Yandex.RTB -->
