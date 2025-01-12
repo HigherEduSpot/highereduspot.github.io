@@ -44,6 +44,8 @@ hero:
     btnText: "HigherEduPrograms"
     url: "/highereduprograms/"
 
+{{< json-ld-sitelink >}}
+
   info: "**MIT Licensed.**"
 
 # Feature Grid
