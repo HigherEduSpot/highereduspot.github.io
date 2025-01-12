@@ -1,10 +1,10 @@
-{{ if .Params.faq }}
+{{ with .Params.faq }}
   <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "FAQPage",
       "mainEntity": [
-        {{ range .Params.faq }}
+        {{ range . }}
         {
           "@type": "Question",
           "name": "{{ .question }}",
