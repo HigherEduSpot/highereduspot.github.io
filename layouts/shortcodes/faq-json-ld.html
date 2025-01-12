@@ -1,22 +1,21 @@
+{{ if .Params.faq }}
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
+    {{ range .Params.faq }}
     {
       "@type": "Question",
-      "name": "What is HigherEduSpot?",
+      "name": "{{ .question }}",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "HigherEduSpot is a platform for connecting students with academic opportunities."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How do I apply?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You can apply directly to the institution."
+        "text": "{{ .answer }}"
       }
     }
+    {{ if not (last .Params.faq) }},{{ end }}
+    {{ end }}
   ]
 }
+</script>
+{{ end }}
