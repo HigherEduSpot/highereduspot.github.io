@@ -1,17 +1,5 @@
-# robots.txt for https://www.highereduspot.com/
-
-# Allow all robots complete access to your website
 User-agent: *
-Disallow:
+Allow: /
 
-# Block specific crawlers or bots (if necessary)
-User-agent: BadBot
-Disallow: /
-
-# Block a specific directory or page (example)
-Disallow: /private-directory/
-Disallow: /secret-page.html
-
-# Sitemap location
-Sitemap: https://www.highereduspot.com/sitemap.xml
 Sitemap: https://www.highereduspot.com/index.xml
+Sitemap: https://www.highereduspot.com/sitemap.xml
