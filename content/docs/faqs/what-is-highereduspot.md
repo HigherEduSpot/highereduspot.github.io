@@ -1,7 +1,7 @@
 ---
 weight: 101
 title: "Frequently Asked Questions"
-description: "Answers to Your Most Common Higher Education Questions"
+description: "Answers for FAQs"
 icon: quiz
 date: 2025-01-03T15:00:00+03:00
 faq:
@@ -17,6 +17,6 @@ HigherEduSpot is a platform for connecting students with academic opportunities.
 ---
 
 ### How do I apply?
-You can apply through the application form on our program pages.
+You can directly appy to the institution.
 
 {{< faq-json-ld faq=.Params.faq >}}
