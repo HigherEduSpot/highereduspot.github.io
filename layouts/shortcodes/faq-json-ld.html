@@ -1,20 +1,18 @@
-{{ with .Params.faq }}
-  <script type="application/ld+json">
+{{ if .Get "faq" }}
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{ range .Get "faq" }}
     {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {{ range . }}
-        {
-          "@type": "Question",
-          "name": "{{ .question }}",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "{{ .answer }}"
-          }
-        }{{ if not last }},{{ end }}
-        {{ end }}
-      ]
-    }
-  </script>
+      "@type": "Question",
+      "name": "{{ .question }}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ .answer }}"
+      }
+    }{{ if not (last) }},{{ end }}
+    {{ end }}
+  ]
+}
 {{ end }}
