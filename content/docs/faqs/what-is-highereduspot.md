@@ -1,5 +1,9 @@
 ---
-title: "What is HigherEduSpot?"
+weight: 101
+title: "Frequently Asked Questions"
+description: "Answers to Your Most Common Higher Education Questions"
+icon: quiz
+date: 2025-01-03T15:00:00+03:00
 faq:
   - question: "What is HigherEduSpot?"
     answer: "HigherEduSpot is a platform for connecting students with academic opportunities."
@@ -7,10 +11,10 @@ faq:
     answer: "You can apply directly to the institution."
 ---
 
-## Frequently Asked Questions
-
 ### What is HigherEduSpot?
 HigherEduSpot is a platform for connecting students with academic opportunities.
+
+---
 
 ### How do I apply?
 You can apply through the application form on our program pages.
