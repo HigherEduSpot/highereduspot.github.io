@@ -46,8 +46,6 @@ hero:
 
 {{< json-ld-sitelink >}}
 
-  info: "**MIT Licensed.**"
-
 # Feature Grid
 featureGrid:
   enable: false
