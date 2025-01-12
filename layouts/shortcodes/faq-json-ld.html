@@ -1,0 +1,22 @@
+<!-- layouts/shortcodes/faq-json-ld.html -->
+{{ if .Params.faq }}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {{ range .Params.faq }}
+        {
+          "@type": "Question",
+          "name": "{{ .question }}",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "{{ .answer }}"
+          }
+        }
+        {{ if not (last .) }},{{ end }}
+      {{ end }}
+    ]
+  }
+  </script>
+{{ end }}
