@@ -10,7 +10,7 @@ We are excited to announce that the Jobs in Higher Education page is now live on
 
 HigherEduSpot is dedicated to connecting educational institutions with talented individuals seeking opportunities in fields such as agricultural science, biology, business and economics, chemistry, and computer science, among others. Our platform aims to provide a comprehensive resource for both job seekers and employers in the academic sector.
 
-### For Universitie
+### For Universities
 
 Submitting job advertisements on HigherEduSpot is a simple process. By sharing your job listings with us, you gain access to a diverse and qualified audience actively seeking opportunities in higher education. This is an excellent opportunity to attract top talent for your institution.
 
