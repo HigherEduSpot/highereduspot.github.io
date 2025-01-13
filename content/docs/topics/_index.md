@@ -1,5 +1,5 @@
 ---
-weight: 1100
+weight: 9000
 title: "Topics"
 description: "HigherEduSpot Topics cover a wide range of subjects, including job postings, program exploration, academic tips, and career advancement guidance."
 icon: edit
