@@ -2,7 +2,7 @@
 weight: 101
 title: "Agricultural Schools"
 description: "Explore Agricultural Schools"
-icon: farm
+icon: agriculture
 date: 2024-12-27T12:00:00+00:00
 ---
 
