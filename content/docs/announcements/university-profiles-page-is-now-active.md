@@ -1,5 +1,5 @@
 ---
-weight: 43
+weight: 60
 title: "University Profiles Page is Now Active"
 description: "University Profiles page is now active on our website, offering detailed insights into top universities and their academic programs."
 icon: brand_awareness

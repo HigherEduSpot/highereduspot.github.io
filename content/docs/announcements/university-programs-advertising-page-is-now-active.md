@@ -1,5 +1,5 @@
 ---
-weight: 44
+weight: 70
 title: "University Programs Advertising Page is Now Active"
 description: "Universities can now advertise their bachelor, master, and Ph.D. programs, including specialized fields like business, computer science, and education."
 icon: brand_awareness
