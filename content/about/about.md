@@ -8,15 +8,15 @@ date: 2025-01-03T15:00:00+03:00
 
 Welcome to HigherEduSpot, your trusted platform for exploring higher education and academic career opportunities. 
 
----
+### 1. Mission Statement
 
-### 1. **Mission Statement**
+---
 
 Our mission at HigherEduSpot is to connect aspiring students, researchers, and professionals with opportunities in prestigious universities across diverse fields.
 
----
+### 2. Who We Serve
 
-### 2. **Who We Serve**
+---
 
 At HigherEduSpot, we cater to a broad spectrum of academic and professional interests:
 
@@ -28,7 +28,10 @@ At HigherEduSpot, we cater to a broad spectrum of academic and professional inte
 
 ---
 
-### 3. **Our Focus Areas**
+### 3. Our Focus Areas
+
+---
+
 We specialize in the following academic fields, offering tailored content and opportunities for each:
 
 1. **Agricultural Science**: Explore programs and job listings that advance agricultural research and innovation.
@@ -79,7 +82,9 @@ Opportunities for teaching and research in legal studies, ethics, and public pol
 17. **Engineering**:
 Faculty positions in mechanical, electrical, civil, and other engineering fields.
 
-### 4. **Why HigherEduSpot?**
+### 4. Why HigherEduSpot?
+
+---
 
 HigherEduSpot is dedicated to simplifying the process of finding the right educational and career paths in academia. Our platform is designed to be user-friendly, with comprehensive listings and resources that make your search efficient and effective. Whether you're a student embarking on a new academic adventure or a professional seeking the next step in your career, HigherEduSpot is here to guide you every step of the way.
 
