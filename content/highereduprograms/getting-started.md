@@ -2,7 +2,7 @@
 weight: 20
 title: "Getting Started"
 description: "Explore Comprehensive Programs of Universities Worldwide"
-icon: travel_explore
+icon: inventory
 date: 2024-12-27T12:00:00+00:00
 ---
 
