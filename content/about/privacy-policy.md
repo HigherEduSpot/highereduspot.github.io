@@ -2,7 +2,7 @@
 weight: 120
 title: "Privacy Policy"
 description: "Explore how HigherEduSpot protects your privacy and handles your personal information."
-icon: tab
+icon: shield
 date: 2025-01-03T15:00:00+03:00
 ---
 

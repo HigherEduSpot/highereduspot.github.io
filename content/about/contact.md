@@ -2,7 +2,7 @@
 weight: 60
 title: "Contact"
 description: "Get in touch with HigherEduSpot for support, inquiries, or feedback."
-icon: tab
+icon: mail
 date: 2025-01-03T15:00:00+03:00
 ---
 

@@ -2,7 +2,7 @@
 weight: 150
 title: "Terms and Conditions"
 description: "Review the guidelines and policies governing your use of HigherEduSpot."
-icon: tab
+icon: assignment
 date: 2025-01-03T15:00:00+03:00
 ---
 

@@ -2,7 +2,7 @@
 weight: 30
 title: "About"
 description: "Access key resources and important information to navigate HigherEduSpot with ease."
-icon: tab
+icon: location_on
 date: 2025-01-03T15:00:00+03:00
 ---
 
