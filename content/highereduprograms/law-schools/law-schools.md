@@ -2,7 +2,7 @@
 weight: 901
 title: "Law Schools"
 description: "Explore Law Schools"
-icon: book_5
+icon: hard_drive
 date: 2024-12-27T12:00:00+00:00
 ---
 
