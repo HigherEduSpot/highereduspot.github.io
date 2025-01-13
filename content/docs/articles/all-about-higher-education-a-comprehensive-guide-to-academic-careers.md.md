@@ -1,5 +1,5 @@
 ---
-weight: 900010
+weight: 9
 title: "All About Higher Education: A Comprehensive Guide to Academic Careers"
 description: "Explore everything you need to know about higher education, from undergraduate to doctoral programs, career opportunities in academia, and the importance of higher education in today's world."
 icon: database
