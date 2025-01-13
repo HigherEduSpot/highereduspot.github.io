@@ -26,8 +26,6 @@ At HigherEduSpot, we cater to a broad spectrum of academic and professional inte
 
 3. **Administrative and Executive Faculty**: We also feature jobs for administrative and executive roles within universities, ensuring that every aspect of academia is covered.
 
----
-
 ### 3. Our Focus Areas
 
 ---
@@ -86,6 +84,8 @@ Faculty positions in mechanical, electrical, civil, and other engineering fields
 
 ---
 
-HigherEduSpot is dedicated to simplifying the process of finding the right educational and career paths in academia. Our platform is designed to be user-friendly, with comprehensive listings and resources that make your search efficient and effective. Whether you're a student embarking on a new academic adventure or a professional seeking the next step in your career, HigherEduSpot is here to guide you every step of the way.
+HigherEduSpot is dedicated to simplifying the process of finding the right educational and career paths in academia. 
+
+Our platform is designed to be user-friendly, with comprehensive listings and resources that make your search efficient and effective. Whether you're a student embarking on a new academic adventure or a professional seeking the next step in your career, HigherEduSpot is here to guide you every step of the way.
 
 Join us on this journey towards academic excellence and career growth. Explore HigherEduSpot today and discover the possibilities that await you in the world of higher education.
