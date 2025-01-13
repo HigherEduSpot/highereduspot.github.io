@@ -2,7 +2,7 @@
 weight: 90
 title: "Disclaimer"
 description: "Important information about the terms, limitations, and responsibilities associated with using HigherEduSpot."
-icon: alert
+icon: notifications
 date: 2025-01-03T15:00:00+03:00
 ---
 
