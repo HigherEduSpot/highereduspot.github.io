@@ -2,7 +2,7 @@
 weight: 50
 title: "Specifications"
 description: "Maximize your reach and attract the right audience with strategic advertising tips for HigherEduSpot."
-icon: inventory
+icon: ads_click
 date: 2025-01-03T15:00:00+03:00
 ---
 

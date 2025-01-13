@@ -2,7 +2,7 @@
 weight: 801
 title: "Humanities Schools"
 description: "Explore Humanities Schools"
-icon: travel_explore
+icon: library_books
 date: 2024-12-27T12:00:00+00:00
 ---
 

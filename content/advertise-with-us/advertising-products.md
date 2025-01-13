@@ -2,7 +2,7 @@
 weight: 30
 title: "Advertising Products"
 description: "Explore advertising opportunities with HigherEduSpot"
-icon: inventory
+icon: campaign
 date: 2025-01-03T15:00:00+03:00
 ---
 

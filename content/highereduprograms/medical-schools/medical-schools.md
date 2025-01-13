@@ -2,7 +2,7 @@
 weight: 1001
 title: "Medical Schools"
 description: "Explore Medical Schools"
-icon: travel_explore
+icon: science
 date: 2024-12-27T12:00:00+00:00
 ---
 

@@ -2,7 +2,7 @@
 weight: 40
 title: "Price List"
 description: "Prestige Advertising at Competitive Prices"
-icon: inventory
+icon: sell
 date: 2025-01-03T15:00:00+03:00
 ---
 

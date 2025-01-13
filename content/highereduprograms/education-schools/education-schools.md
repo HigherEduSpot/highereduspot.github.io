@@ -2,7 +2,7 @@
 weight: 601
 title: "Education Schools"
 description: "Explore Education Schools"
-icon: travel_explore
+icon: books
 date: 2024-12-27T12:00:00+00:00
 ---
 
