@@ -1,5 +1,5 @@
 ---
-weight: 30
+weight: 40
 title: "Announcements"
 description: "Stay informed with HigherEduSpot Announcements, featuring the latest updates, new features, and opportunities for students and institutions."
 icon: brand_awareness

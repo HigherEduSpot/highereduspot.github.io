@@ -1,5 +1,5 @@
 ---
-weight: 40
+weight: 41
 title: "Overview of the Announcements Page"
 description: "Stay Informed with the Latest Higher Education Updates."
 icon: brand_awareness
