@@ -1,7 +1,7 @@
 ---
 weight: 5100
-title: "Agricultural Science"
-description: "HigherEduSpot currently lists available faculty job opportunities in agricultural science."
+title: "Environmental Science"
+description: "HigherEduSpot currently lists available faculty job opportunities in environmental science."
 icon: article
 date: 2024-12-27T12:00:00+00:00
 ---

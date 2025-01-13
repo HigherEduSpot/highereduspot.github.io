@@ -18,9 +18,9 @@ Welcome to HigherEduSpot, your trusted platform for connecting with academics, r
 
 - **Advertise Your Job Postings**: Post job openings, internships, and assistantships on the platform. Connect with students and recent graduates actively seeking opportunities in your institution.
 
----
+### Why Advertise with Us?
 
-### **Why Advertise with Us?**
+---
 
 - **Prestige and Reach**: Gain access to a global network of students, educators, and professionals.
 
