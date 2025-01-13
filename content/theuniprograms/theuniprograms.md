@@ -1,4 +1,4 @@
 --- 
-title: "The Uni Programs" 
+title: "TheUniPrograms" 
 layout: customlayout # Replace with the actual layout name 
 ---
