@@ -48,6 +48,8 @@ Times Higher Education (THE) Careers is part of the renowned Times Higher Educat
 ### Business Schools Jobs (BSJ): Niche Focus on Business Academia
 BusinessSchoolsJobs.eu.org caters specifically to academic and administrative roles in business schools across Europe and beyond. Its niche focus provides tailored opportunities for business scholars and professionals.
 
+https://www.businessschoolsjobs.eu.org
+
 #### Features
 - Specialized Listings: Roles include Assistant, Associate, and Full Professor positions, as well as administrative and leadership opportunities.
 - Global Focus: Strong emphasis on Global institutions.
