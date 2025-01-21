@@ -2,7 +2,7 @@
 weight: 30
 title: "Getting Started"
 icon: inventory
-description: "Whether you're looking for postdoctoral positions, faculty roles, or administrative careers, our platform connects you with top institutions seeking talented individuals like you."
+description: "Explore Opportunities"
 date: 2025-01-03T15:00:00+03:00
 ---
 

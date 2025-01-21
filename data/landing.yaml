@@ -25,7 +25,7 @@ hero:
   #   height: 80px
 
   title: "HigherEduSpot"
-  subtitle: "Whether you're looking for postdoctoral positions, faculty roles, or administrative careers, our platform connects you with top institutions seeking talented individuals like you."
+  subtitle: "Whether you're looking for administrative roles, executive roles, faculty roles or postdoc roles, HigherEduSpot connects you with top institutions seeking talented individuals like you."
 
   image:
     path: "images" # path to image under configured assets directory. default 'images'
