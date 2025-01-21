@@ -36,12 +36,12 @@ hero:
 
   ctaButton:
       icon: work
-      btnText: "Documentation"
-      url: "/docs/"
+      btnText: "Jobs in Higher Education"
+      url: "/jobs-in-higher-education/"
 
   cta2Button:
     icon: database
-    btnText: "Jobs in Higher Education"
-    url: "/jobs-in-higher-education/"
+    btnText: "Documentation"
+    url: "/docs/"
 
   info: "MIT Licensed."
