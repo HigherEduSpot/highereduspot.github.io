@@ -60,9 +60,8 @@ Your opening should grab attention by briefly introducing who you are, the posit
 The next paragraph should showcase your research expertise and contributions. Emphasize publications, ongoing projects, and future research plans that align with the institution’s priorities.
 
 #### 4.1 Example
-"My research focuses on [specific area], addressing critical questions such as [brief description]. My work has been published in [high-impact journals], including [Journal Names]. Currently, I am developing a project on [brief overview of future research], which I believe aligns with [Institution Name]’s emphasis on [specific institutional focus]."
 
----
+"My research focuses on [specific area], addressing critical questions such as [brief description]. My work has been published in [high-impact journals], including [Journal Names]. Currently, I am developing a project on [brief overview of future research], which I believe aligns with [Institution Name]’s emphasis on [specific institutional focus]."
 
 ### 5. Emphasize Teaching Excellence
 
