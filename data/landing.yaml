@@ -27,21 +27,21 @@ hero:
   title: "HigherEduSpot"
   subtitle: "Connecting You to University Profiles, Jobs in Higher Education, and Program Database."
 
-  image:
-    path: "images" # path to image under configured assets directory. default 'images'
-    filename: "advertisement.gif" # filename of your hero image (including file extension)
-    alt: "Business Scholos Jobs" # Optional but recommended
-    boxShadow: true # default 'false' (excludes .svg images)
-    rounded: true # round the image corners? default 'false' (excludes .svg images)
+  #image:
+    #path: "images" # path to image under configured assets directory. default 'images'
+    #filename: "advertisement.gif" # filename of your hero image (including file extension)
+    #alt: "Business Scholos Jobs" # Optional but recommended
+    #boxShadow: true # default 'false' (excludes .svg images)
+    #rounded: true # round the image corners? default 'false' (excludes .svg images)
 
   ctaButton:
       icon: work
-      btnText: "HigherEduJobs"
-      url: "/higheredujobs/"
+      btnText: "Documentation"
+      url: "/docs/"
 
   cta2Button:
     icon: database
-    btnText: "HigherEduPrograms"
-    url: "/highereduprograms/"
+    btnText: "Jobs in Higher Education"
+    url: "/jobs-in-higher-education/"
 
-  info: "**MIT Licensed.**"
+  info: "MIT Licensed."

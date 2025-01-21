@@ -94,12 +94,6 @@ title = 'HigherEduSpot'
 
 [[menu.primary]]
     name  = "Advertise with Us"
-    url = "/advertise-with-us/"
+    url = "/advertise with us/"
     identifier = "advertise-with-us"
     weight = 20
-
-[[menu.primary]]
-     name  = "Blog"
-     url = "/docs/"
-     identifier = "docs"
-     weight = 30
