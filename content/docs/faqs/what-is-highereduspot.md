@@ -12,11 +12,15 @@ faq:
 ---
 
 ### What is HigherEduSpot?
-HigherEduSpot is a platform for connecting students with academic opportunities.
 
 ---
 
+HigherEduSpot is a platform for connecting students with academic opportunities.
+
 ### How do I apply?
+
+---
+
 You can directly appy to the institution.
 
 {{< faq-json-ld faq=.Params.faq >}}

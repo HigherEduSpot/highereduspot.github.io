@@ -10,8 +10,6 @@ date: 2025-01-03T15:00:00+03:00
 
 A master's degree is a postgraduate academic qualification awarded by universities and colleges. It builds upon the knowledge and skills acquired during a bachelor’s degree and is designed for advanced study in a specific field. Master's degrees often combine academic rigor with practical application, preparing graduates for higher-level careers, research opportunities, or doctoral studies.
 
----
-
 ### 1. Key Features of a Master’s Degree
 
 - **Duration**: Typically takes 1 to 2 years to complete full-time.
