@@ -42,7 +42,7 @@ title = 'HigherEduSpot'
 
     [params.social]
         #github = "highereduspot/community" # github.com/YOUR_GITHUB_ID
-        twitter = "HigherEduSpot"            # twitter.com/YOUR_TWITTER_ID
+        #twitter = "HigherEduSpot"            # twitter.com/YOUR_TWITTER_ID
         # instagram = "#"      # instagram.com/YOUR_INSTAGRAM_ID
         # rss = true                     # show rss icon with link
 
@@ -90,10 +90,10 @@ title = 'HigherEduSpot'
     name  = "About HigherEduSpot"
     url = "/about/"
     identifier = "about"
-    weight = 10
+    weight = 20
 
 [[menu.primary]]
     name  = "Advertise with Us"
     url = "/advertise with us/"
     identifier = "advertise-with-us"
-    weight = 20
+    weight = 10
