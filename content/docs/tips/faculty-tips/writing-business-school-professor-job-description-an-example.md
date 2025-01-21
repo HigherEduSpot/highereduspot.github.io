@@ -3,10 +3,12 @@ weight: 10003
 title: "Writing Business School Professor Job Description: An Example"
 description: "Following is an example for writing business school professor job description."
 icon: edit_note
-date: 2025-01-03T15:00:00+03:00
+date: 2025-01-21T15:00:00+03:00
 ---
 
-**Published**: 03.01.2025 <br> **Time**: 15:00 (UTC+3) <br> **Author**: Business Schools Jobs
+**Published**: 21.01.2025  
+**Time**: 15:00 (UTC+3)  
+**Authors**: Sirius (ChatGPT) and Elias (HigherEduSpot)
 
 Following is an example for writing business school professor job description.
 

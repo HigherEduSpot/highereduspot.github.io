@@ -3,12 +3,12 @@ weight: 9006
 title: "Top Skills Business Schools Seek in Faculty Candidates"
 description: "Business schools are renowned for their commitment to academic rigor and real-world impact."
 icon: edit_note
-date: 2025-01-03T15:00:00+03:00
+date: 2025-01-21T15:00:00+03:00
 ---
 
-**Published**: 10.01.2025  
+**Published**: 21.01.2025  
 **Time**: 15:00 (UTC+3)  
-**Authors**: Sirius (ChatGPT) and Elias (Business Schools Jobs)
+**Authors**: Sirius (ChatGPT) and Elias (HigherEduSpot)
 
 ---
 

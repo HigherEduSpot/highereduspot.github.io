@@ -3,10 +3,12 @@ weight: 10002
 title: "Writing a Cover Letter for an Assistant Professor Role in Business with an Example"
 description: "Write a cover letter for an assistant professor role in business."
 icon: edit_note
-date: 2025-01-03T15:00:00+03:00
+date: 2025-01-21T15:00:00+03:00
 ---
 
-**Published**: 03.01.2025 <br> **Time**: 15:00 (UTC+3) <br> **Author**: Business Schools Jobs
+**Published**: 21.01.2025  
+**Time**: 15:00 (UTC+3)  
+**Authors**: Sirius (ChatGPT) and Elias (HigherEduSpot)
 
 [Download the Word File](faculty_position_cover_letter.docx)
 [Download the PDF File](faculty_position_cover_letter.pdf)
