@@ -11,13 +11,13 @@ faq:
     answer: "You can apply directly to the institution."
 ---
 
-### What is HigherEduSpot?
+### 1. What is HigherEduSpot?
 
 ---
 
 HigherEduSpot is a platform for connecting students with academic opportunities.
 
-### How do I apply?
+### 2. How do I apply?
 
 ---
 
