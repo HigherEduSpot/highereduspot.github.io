@@ -1,6 +1,6 @@
 ---
 weight: 1010
-title: "Administrative Jobs"
+title: "Administrative"
 description: "HigherEduSpot currently lists available administrative job opportunities."
 icon: home_work
 date: 2024-12-27T12:00:00+00:00

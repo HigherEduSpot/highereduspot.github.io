@@ -1,6 +1,6 @@
 ---
 weight: 3010
-title: "Executive Jobs"
+title: "Executive"
 description: "HigherEduSpot currently lists available executive job opportunities."
 icon: rebase_edit
 date: 2024-12-27T12:00:00+00:00
