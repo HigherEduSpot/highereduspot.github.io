@@ -10,8 +10,8 @@ date: 2025-01-21T15:00:00+03:00
 **Time**: 15:00 (UTC+3)  
 **Authors**: Sirius (ChatGPT) and Elias (HigherEduSpot)
 
-[Download the Word File](faculty_position_cover_letter.docx) <br>
-[Download the PDF File](faculty_position_cover_letter.pdf)
+[Download the Word File](/public/faculty_position_cover_letter.docx) <br>
+[Download the PDF File](/public/faculty_position_cover_letter.docx)
 
 ### 1. Start with a Professional Header
 
