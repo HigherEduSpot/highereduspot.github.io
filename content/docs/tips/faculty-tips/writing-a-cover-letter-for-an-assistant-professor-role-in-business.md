@@ -105,5 +105,3 @@ Customize Your Letter: Customize your letter for each application to reflect the
 For further insights on how to improve your application and stand out among other candidates, check out our guide on [How to Stand Out in Business School Faculty Applications](https://www.businessschoolsjobs.eu.org/blog/advice-and-tips/how-to-stand-out-in-business-school-faculty-applications/).
 
 By following this structure and customizing your content to the specific institution, you can create a compelling cover letter that positions you as a standout candidate for the assistant professor position in business.
-
----
