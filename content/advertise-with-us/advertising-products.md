@@ -12,19 +12,19 @@ HigherEduSpot offers optimized advertising solutions for academic institutions, 
 
 **Our Advertising Products**:
 
-### Job Postings
+### 1. Job Postings
 
 ---
 
 Promote faculty, administrative, postdoctoral, and executive positions to a network of qualified professionals actively seeking opportunities in higher education.
 
-### Featured Ads
+### 2. Featured Ads
 
 ---
 
 Boost your visibility by placing your advertisements in prominent positions on our platform. Ensure your opportunities stand out to the right audience.
 
-### Custom Campaigns
+### 3. Custom Campaigns
 
 ---
 
