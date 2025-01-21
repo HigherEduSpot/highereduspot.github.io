@@ -10,9 +10,7 @@ date: 2025-01-03T15:00:00+03:00
 
 ---
 
-Welcome to HigherEduSpot – your all-in-one platform for exploring higher education opportunities, managing applications, and connecting with institutions worldwide. This guide will help you navigate the platform and make the most out of your experience.
-
-Explore our comprehensive documentation to make the most of HigherEduSpot. Access detailed guides, tutorials, FAQs, and resources for everything from job postings and program advertising to exploring educational opportunities.
+Explore comprehensive documentation to make the most of HigherEduSpot. Access detailed guides, tutorials, FAQs, and resources for everything from job postings and program advertising to exploring educational opportunities.
 
 1. **Announcement**: Stay updated with the latest news, platform updates, and exciting opportunities from HigherEduSpot.
 
