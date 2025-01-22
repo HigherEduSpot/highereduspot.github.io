@@ -21,8 +21,6 @@ ChatGPT, an advanced language model powered by artificial intelligence (AI), exe
 
 ChatGPT, Disruptive Innovation, AI, Qualitative Research, Inductive Reasoning, Education, Business Schools, Quantum Computing, Technological Revolution
 
----
-
 ### 1. Introduction
 
 ---
