@@ -71,6 +71,7 @@ Active participation in the academic and professional community demonstrates com
 Business schools often seek faculty who contribute to departmental and institutional service, such as committee work, program development, or mentoring.
 
 #### 5.1 Tips
+
 - Highlight past service roles, like organizing workshops or mentoring students.
 - Express willingness to contribute to the school’s committees or initiatives.
 - Align your service interests with the school’s strategic goals.
