@@ -33,8 +33,6 @@ When applying for a faculty role, crafting an efficient cover letter is one of t
 - Keep your CV concise and emphasize achievements over responsibilities.
 - Customize your cover letter to show genuine interest in the institution.
 
----
-
 ### 2. Demonstrate Research Excellence
 
 ---
@@ -108,5 +106,3 @@ Connections in academia can provide valuable insights and opportunities. Reach o
 ---
 
 Standing out in business school faculty applications requires a combination of academic excellence, teaching innovation, and alignment with the institution’s mission. By tailoring your application, showcasing your strengths, and engaging with the academic community, you can position yourself as a top candidate. Dedicate time to each step, and don’t hesitate to seek guidance from peers or mentors to refine your approach.
-
----
