@@ -33,6 +33,8 @@ Use a formal format for your cover letter. Include your contact information, the
 [Address]  
 [City, State, ZIP Code]
 
+{{< yandex/partner >}}
+
 ### 2. Address the Hiring Committee
 
 ---
