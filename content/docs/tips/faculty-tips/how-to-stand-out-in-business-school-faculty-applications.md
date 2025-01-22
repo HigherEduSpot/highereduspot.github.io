@@ -65,6 +65,9 @@ Active participation in the academic and professional community demonstrates com
 - Mention collaborations with other scholars or industry partners.
 
 ### 5. Show Interest in Institutional Service
+
+---
+
 Business schools often seek faculty who contribute to departmental and institutional service, such as committee work, program development, or mentoring.
 
 #### 5.1 Tips
