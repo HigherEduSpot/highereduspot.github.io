@@ -8,8 +8,6 @@ date: 2025-01-03T15:00:00+03:00
 
 {{< alert text="For inquiries, feel free to [email us](mailto:support@highereduspot.com)." />}}
 
----
-
 Explore comprehensive documentation to make the most of HigherEduSpot. Access detailed guides, tutorials, FAQs, and resources for everything from job postings and program advertising to exploring educational opportunities.
 
 1. **Announcement**: Stay updated with the latest news, platform updates, and exciting opportunities from HigherEduSpot.

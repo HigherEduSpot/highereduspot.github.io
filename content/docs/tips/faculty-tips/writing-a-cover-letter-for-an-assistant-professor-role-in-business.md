@@ -72,9 +72,12 @@ The next paragraph should showcase your research expertise and contributions. Em
 Describe your teaching experience and philosophy. Highlight courses you’ve taught, innovative methods you’ve employed, and student feedback (if available).
 
 #### 5.1 Example
+
 "Teaching is central to my academic mission. I have had the privilege of designing and teaching courses such as [Course Names] at [University Name]. My teaching philosophy emphasizes [key principles, e.g., experiential learning or critical thinking], and I have consistently received positive evaluations, with students noting [specific feedback].
 
 ### 6. Showcase Fit with the Institution
+
+---
 
 Explain why you are specifically interested in the institution and how you can contribute to its mission.
 

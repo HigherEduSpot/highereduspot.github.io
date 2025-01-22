@@ -21,6 +21,7 @@ The world of higher education offers a wide array of career opportunities, wheth
 Higher education institutions—ranging from community colleges to research universities—offer a variety of job opportunities. These roles span across faculty, administration, research, and support positions. Let’s break down the main categories of jobs in higher education:
 
 #### 1.1 Administrative Jobs
+
 Administrative roles support the operations of academic institutions and often offer a career path outside of teaching. Key administrative jobs include:
 
 - **University President/Chancellor**: The highest-ranking executive position in a university, responsible for overseeing all aspects of the institution.
@@ -77,8 +78,6 @@ The qualifications needed for jobs in higher education vary depending on the rol
 - **Technical Skills**: Depending on the field, expertise in data analysis, laboratory techniques, or research methods is crucial.
 - **Publications**: For advanced research roles, publishing articles in academic journals and presenting findings at conferences will help build credibility.
 
----
-
 ### 3. How to Find Jobs in Higher Education
 
 ---
@@ -123,8 +122,6 @@ Salaries in higher education vary significantly depending on the role, instituti
 - **Research Assistant**: $35,000 to $50,000 per year.
 - **Admissions Officer**: $45,000 to $70,000 annually.
 - **Student Affairs Coordinator**: $40,000 to $60,000 per year.
-
----
 
 ### 6. Conclusion
 

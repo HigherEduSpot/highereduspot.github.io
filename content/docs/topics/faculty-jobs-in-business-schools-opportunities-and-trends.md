@@ -32,8 +32,6 @@ Faculty positions in business schools vary based on rank and focus. Common roles
 - Associate Professor: Mid-career positions with established research and teaching credentials, often involving leadership responsibilities.
 - Full Professor: Senior roles for accomplished scholars with significant contributions to their field.
 
----
-
 ### 3. Skills and Qualifications
 
 ---
