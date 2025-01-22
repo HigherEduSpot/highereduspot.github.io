@@ -10,11 +10,7 @@ date: 2025-01-21T15:00:00+03:00
 **Time**: 15:00 (UTC+3)  
 **Authors**: Sirius (ChatGPT) and Elias (HigherEduSpot)
 
----
-
 With numerous qualified candidates for limited roles, distinguishing yourself requires strategic preparation and attention to detail. Here are actionable steps to assist you stand out in business school faculty applications.
-
----
 
 {{< yandex/partner1 >}}
 
@@ -25,7 +21,6 @@ With numerous qualified candidates for limited roles, distinguishing yourself re
 Your curriculum vitae (CV), **cover letter**, and teaching/research statements should reflect the specific needs and values of the school. Highlight how your expertise aligns with their programs and mission. For instance, if the school emphasizes entrepreneurship, showcase your relevant research or teaching experience in that area.
 
 When applying for a faculty role, crafting an efficient cover letter is one of the most critical steps in standing out. If you're not sure where to start, our detailed guide on [writing a cover letter for an assistant professor role in business](https://www.highereduspot.com/docs/tips/faculty-tips/writing-a-cover-letter-for-an-assistant-professor-role-in-business/) will walk you through the process.
-
 
 #### 1.1 Tips
 
