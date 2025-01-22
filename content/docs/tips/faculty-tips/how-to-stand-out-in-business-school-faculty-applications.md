@@ -16,6 +16,8 @@ With numerous qualified candidates for limited roles, distinguishing yourself re
 
 ---
 
+{{< yandex/partner.html >}}
+
 ### 1. Application Materials
 
 ---
