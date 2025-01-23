@@ -1,5 +1,5 @@
 ---
-weight: 9005
+weight: 9004
 title: "How to Write a Scientific Article Based on APA 7th Edition: An Example"
 description: "Explore how ChatGPT, a revolutionary AI language model, is reshaping industries with its disruptive innovation."
 icon: edit_note
