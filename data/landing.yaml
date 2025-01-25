@@ -12,11 +12,11 @@ hero:
     #  desktop: "gradient-desktop.webp"
     #  mobile: "gradient-mobile.webp"
 
-  badge:
-    text: v.0.1.0 - MIT Licensed.
-    color: primary # primary, secondary, success, danger, warning, info, light, dark
-    pill: false # boolean
-    soft: true # boolean
+  #badge:
+    #text: v.0.1.0 - MIT Licensed.
+    #color: primary # primary, secondary, success, danger, warning, info, light, dark
+    #pill: false # boolean
+    #soft: true # boolean
 
   # titleLogo:
   #   path: "images/logos"
