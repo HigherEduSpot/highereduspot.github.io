@@ -2,7 +2,7 @@
 weight: 30
 title: "Getting Started"
 icon: inventory
-description: "Explore Opportunities"
+description: "Explore Faculty Jobs in Universities. Explore Faculty Jobs in Higher Education. Explore Assistant Professor Position in Universities."
 date: 2025-01-03T15:00:00+03:00
 ---
 
