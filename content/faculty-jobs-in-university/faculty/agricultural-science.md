@@ -1,5 +1,5 @@
 ---
-weight: 5100
+weight: 3001
 title: "Agricultural Science"
 description: "HigherEduSpot currently lists available faculty job opportunities in agricultural science."
 icon: article

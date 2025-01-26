@@ -1,5 +1,5 @@
 ---
-weight: 6100
+weight: 3015
 title: "Political Science"
 description: "HigherEduSpot currently lists available faculty job opportunities in political science."
 icon: article

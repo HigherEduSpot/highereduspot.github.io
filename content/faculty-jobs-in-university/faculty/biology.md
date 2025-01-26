@@ -1,5 +1,5 @@
 ---
-weight: 5200
+weight: 3003
 title: "Biology"
 description: "HigherEduSpot currently lists available faculty job opportunities in biology."
 icon: article

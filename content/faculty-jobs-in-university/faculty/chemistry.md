@@ -1,5 +1,5 @@
 ---
-weight: 5400
+weight: 3005
 title: "Chemistry"
 description: "HigherEduSpot currently lists available faculty job opportunities in chemistry."
 icon: article

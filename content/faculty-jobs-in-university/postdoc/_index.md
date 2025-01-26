@@ -1,5 +1,5 @@
 ---
-weight: 9000
+weight: 1000
 title: "Postdoc"
 description: "Explore postdoctoral opportunities in leading universities and research institutions. These roles allow you to advance your research, collaborate with experts, and contribute to groundbreaking studies across various academic fields. Take the next step in your academic career with a postdoctoral position at HigherEduSpot."
 icon: print

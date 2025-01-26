@@ -1,5 +1,5 @@
 ---
-weight: 5600
+weight: 3007
 title: "Education"
 description: "HigherEduSpot currently lists available faculty job opportunities in education."
 icon: article

@@ -1,5 +1,5 @@
 ---
-weight: 5500
+weight: 3006
 title: "Computer Science"
 description: "HigherEduSpot currently lists available faculty job opportunities in computer science."
 icon: article

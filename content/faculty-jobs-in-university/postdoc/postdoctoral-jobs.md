@@ -1,5 +1,5 @@
 ---
-weight: 9010
+weight: 1001
 title: "Postdoctoral Jobs"
 description: "HigherEduSpot currently lists available postdoctoral job opportunities."
 icon: print

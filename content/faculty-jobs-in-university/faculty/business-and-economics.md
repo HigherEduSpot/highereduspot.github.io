@@ -1,5 +1,5 @@
 ---
-weight: 5300
+weight: 3004
 title: "Business and Economics"
 description: "HigherEduSpot currently lists available faculty job opportunities in business and economics."
 icon: article

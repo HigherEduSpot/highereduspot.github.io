@@ -1,5 +1,5 @@
 ---
-weight: 6300
+weight: 3017
 title: "Technology"
 description: "HigherEduSpot currently lists available faculty job opportunities in technology."
 icon: article

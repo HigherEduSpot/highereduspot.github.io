@@ -1,5 +1,5 @@
 ---
-weight: 3010
+weight: 9001
 title: "Executive"
 description: "HigherEduSpot currently lists available executive job opportunities."
 icon: rebase_edit

@@ -1,5 +1,5 @@
 ---
-weight: 6000
+weight: 3014
 title: "Physics"
 description: "HigherEduSpot currently lists available faculty job opportunities in physics."
 icon: article

@@ -1,5 +1,5 @@
 ---
-weight: 5800
+weight: 3012
 title: "Medicine"
 description: "HigherEduSpot currently lists available faculty job opportunities in medicine."
 icon: article

@@ -1,5 +1,5 @@
 ---
-weight: 5100
+weight: 3009
 title: "Environmental Science"
 description: "HigherEduSpot currently lists available faculty job opportunities in environmental science."
 icon: article

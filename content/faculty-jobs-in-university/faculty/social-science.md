@@ -1,5 +1,5 @@
 ---
-weight: 6200
+weight: 3016
 title: "Social Science"
 description: "HigherEduSpot currently lists available faculty job opportunities in social science."
 icon: article

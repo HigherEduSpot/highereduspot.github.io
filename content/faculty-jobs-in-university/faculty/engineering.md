@@ -1,5 +1,5 @@
 ---
-weight: 5100
+weight: 3008
 title: "Engineering"
 description: "HigherEduSpot currently lists available faculty job opportunities in engineering."
 icon: article

@@ -1,5 +1,5 @@
 ---
-weight: 5100
+weight: 3010
 title: "Law"
 description: "HigherEduSpot currently lists available faculty job opportunities in law."
 icon: article

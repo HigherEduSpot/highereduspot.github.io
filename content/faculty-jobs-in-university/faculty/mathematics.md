@@ -1,5 +1,5 @@
 ---
-weight: 5700
+weight: 3011
 title: "Mathematics"
 description: "HigherEduSpot currently lists available faculty job opportunities in mathematics."
 icon: article
