@@ -1,11 +1,11 @@
 ---
 weight: 60
-title: "Price List"
+title: "Post a Job"
 description: "Post a Job"
 icon: sell
 date: 2025-01-03T15:00:00+03:00
 ---
 
-Agricultural Science
+Post Agricultural Science Job
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/appWOoBxmGoaKnB37/pagSHSf1qyICkWa5D/form" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
