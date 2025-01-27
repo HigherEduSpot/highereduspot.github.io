@@ -36,8 +36,8 @@ hero:
 
   ctaButton:
       icon: work
-      btnText: "Jobs in University"
-      url: "/faculty-jobs-in-university/"
+      btnText: "Jobs in Higher Education"
+      url: "/jobs-in-higher-education"
 
   cta2Button:
     icon: database
