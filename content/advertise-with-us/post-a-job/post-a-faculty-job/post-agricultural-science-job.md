@@ -2,7 +2,7 @@
 weight: 60
 title: "Price List"
 description: "Post a Job"
-icon: sell
+icon: assignment
 date: 2025-01-03T15:00:00+03:00
 ---
 
