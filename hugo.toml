@@ -16,7 +16,6 @@ title = 'HigherEduSpot'
       endLevel = 3
       startLevel = 1
 
-[markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
