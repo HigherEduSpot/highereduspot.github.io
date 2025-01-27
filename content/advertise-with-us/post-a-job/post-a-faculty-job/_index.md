@@ -1,6 +1,6 @@
 ---
-weight: 60
-title: "Post a Job"
+weight: 15
+title: "Post a Faculty Job"
 description: "Post a Faculty Job"
 icon: assignment
 date: 2025-01-03T15:00:00+03:00
