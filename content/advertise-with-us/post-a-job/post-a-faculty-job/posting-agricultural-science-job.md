@@ -1,7 +1,7 @@
 ---
-weight: 16
-title: "Price List"
-description: "Post a Job"
+weight: 24
+title: "Posting Agricultural Science Job"
+description: "Please fill out the form to post an agricultural science job."
 icon: assignment
 date: 2025-01-03T15:00:00+03:00
 ---
