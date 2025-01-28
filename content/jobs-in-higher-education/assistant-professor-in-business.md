@@ -9,3 +9,5 @@ show_in_sidebar: false
 ---
 
 AAA
+
+{{ partial "sidebar.html" . }}
