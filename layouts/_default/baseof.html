@@ -33,28 +33,10 @@ If so, collect and consolidate the items config from each enabled instance
         <div>
             {{- partial "header.html" . -}}
         </div>
-        <div class="container">
-            <div class="row">
-                <!-- Conditionally Render Sidebar -->
-                {{ if .Params.show_in_sidebar != false }}
-                    <div class="col-md-3">
-                        {{ partial "sidebar.html" . }}
-                    </div>
-                {{ else }}
-                    <div class="col-md-3" style="display:none;">
-                        <!-- Sidebar will be hidden -->
-                    </div>
-                {{ end }}
-                
-                <!-- Main Content -->
-                <div class="col-md-9">
-                    <div class="mb-4" id="content">
-                        {{- block "main" . }}{{- end }}
-                    </div>
-                </div>
-            </div>
+        <div class="mb-4" id="content">
+            {{- block "main" . }}{{- end }}
         </div>
-        {{- partial "footer.html" . -}}
+            {{- partial "footer.html" . -}}
 
         <!-- Lotus Docs JS -->
         {{ $app := resources.Get "/js/app.js" }}
