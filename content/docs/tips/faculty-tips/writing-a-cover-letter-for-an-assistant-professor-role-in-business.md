@@ -108,6 +108,6 @@ Customize Your Letter: Customize your letter for each application to reflect the
 - Proofread: Ensure your letter is free from typos and grammatical errors.
 - Use Keywords: Incorporate terms from the job posting to demonstrate alignment with the position’s requirements.
 
-For further insights on how to improve your application and stand out among other candidates, check out our guide on [How to Stand Out in Business School Faculty Applications](https://www.highereduspot.com/docs/tips/faculty-tips/how-to-stand-out-in-business-school-faculty-applications/).
+For further insights on how to improve your application and stand out among other candidates, check out our guide on [How to Stand Out in Business School Faculty Applications](https://highereduspot.com/docs/tips/faculty-tips/how-to-stand-out-in-business-school-faculty-applications/).
 
 By following this structure and customizing your content to the specific institution, you can create a compelling cover letter that positions you as a standout candidate for the assistant professor position in business.
