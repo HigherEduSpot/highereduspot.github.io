@@ -4,8 +4,6 @@ title: "Jobs in Higher Education: A Complete Guide to Academic Careers"
 description: "Explore the diverse job opportunities in higher education, including faculty positions, administrative roles, research jobs, and more. Learn how to find the right career path in academia."
 icon: database
 date: 2024-01-21T12:00:00+00:00
-tags: ["jobs in higher education", "academic careers", "higher education jobs", "faculty positions", "administrative roles"]
-categories: ["career advice", "higher education"]
 ---
 
 **Published**: 21.01.2025  
