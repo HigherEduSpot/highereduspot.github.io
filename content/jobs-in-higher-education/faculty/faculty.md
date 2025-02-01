@@ -1,8 +1,8 @@
 ---
-weight: 3010
-title: "Law"
-description: "HigherEduSpot currently lists available faculty job opportunities in law."
-icon: article
+weight: 9001
+title: "Faculty"
+description: "HigherEduSpot currently lists available faculty job opportunities."
+icon: rebase_edit
 date: 2024-12-27T12:00:00+00:00
 ---
 
