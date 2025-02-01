@@ -16,12 +16,15 @@ Our focus is to provide insightful, up-to-date resources and job postings specif
 
 ### Why Choose HigherEduSpot?
 
-Exclusive Listings: We prioritize quality over quantity, offering carefully curated job listings from leading institutions globally.
+**Exclusive Listings**: We prioritize quality over quantity, offering carefully curated job listings from leading institutions globally.
 
-Tailored Resources: Our platform is designed with faculty, administrative, executive, and postdoctoral job seekers in mind. From application tips to career advice, we provide the resources you need to succeed.
-Global Reach: Whether you are looking for a role in North America, Europe, or Asia, HigherEduSpot connects you with opportunities from top universities and institutions worldwide.
-Streamlined Job Search: With easy-to-use search filters, you can quickly find jobs that match your qualifications, location preferences, and career goals.
-Career Support: We go beyond job listings by offering helpful guides and advice on CV writing, interview preparation, and transitioning into new academic, administrative, executive, or postdoctoral roles.
+**Tailored Resources**: Our platform is designed with faculty, administrative, executive, and postdoctoral job seekers in mind. From application tips to career advice, we provide the resources you need to succeed.
+
+**Global Reach**: Whether you are looking for a role in North America, Europe, or Asia, HigherEduSpot connects you with opportunities from top universities and institutions worldwide.
+
+**Streamlined Job Search**: With easy-to-use search filters, you can quickly find jobs that match your qualifications, location preferences, and career goals.
+
+**Career Support**: We go beyond job listings by offering helpful guides and advice on CV writing, interview preparation, and transitioning into new academic, administrative, executive, or postdoctoral roles.
 
 ### Vision
 
