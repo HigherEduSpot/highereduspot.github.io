@@ -12,8 +12,6 @@ date: 2025-01-21T15:00:00+03:00
 
 With numerous qualified candidates for limited roles, distinguishing yourself requires strategic preparation and attention to detail. Here are actionable steps to assist you stand out in business school faculty applications.
 
-{{< yandex/partner1 >}}
-
 ### 1. Application Materials
 
 ---
