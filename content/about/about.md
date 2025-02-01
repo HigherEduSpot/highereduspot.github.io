@@ -18,6 +18,7 @@ Tailored Resources: Our platform is designed with faculty, administrative, execu
 Global Reach: Whether you are looking for a role in North America, Europe, or Asia, HigherEduSpot connects you with opportunities from top universities and institutions worldwide.
 Streamlined Job Search: With easy-to-use search filters, you can quickly find jobs that match your qualifications, location preferences, and career goals.
 Career Support: We go beyond job listings by offering helpful guides and advice on CV writing, interview preparation, and transitioning into new academic, administrative, executive, or postdoctoral roles.
+
 ### Vision
 Our vision is to become the leading global platform for faculty, administrative, executive, and postdoctoral job seekers in Business and Economics, empowering academics and professionals to find rewarding opportunities that align with their career aspirations and contribute to the advancement of knowledge and leadership in these vital fields.
 
