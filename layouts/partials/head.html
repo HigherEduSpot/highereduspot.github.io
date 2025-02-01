@@ -19,15 +19,15 @@
     <meta name="description" content="Search jobs in higher education. Search University Jobs. Whether you're looking for administrative jobs, executive jobs, faculty jobs or postdoc jobs, HigherEduSpot connects you with top universities seeking talented individuals like you.">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:image" content="https://www.highereduspot.com/web-app-manifest-512x512.png">
+    <meta name="twitter:image" content="https://highereduspot.com/web-app-manifest-512x512.png">
     
     
     <!-- Open Graph Meta Tags -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.highereduspot.com/">
+    <meta property="og:url" content="https://highereduspot.com/">
     <meta property="og:title" content="Jobs in Higher Education | University Jos | HigherEduSpot">
     <meta property="og:description" content="Search jobs in higher education. Search University Jobs. Whether you're looking for administrative jobs, executive jobs, faculty jobs or postdoc jobs, HigherEduSpot connects you with top universities seeking talented individuals like you.">
-    <meta property="og:image" content="https://www.highereduspot.com/web-app-manifest-512x512.png"> <!-- Example image URL, replace with your actual image URL -->
+    <meta property="og:image" content="https://highereduspot.com/web-app-manifest-512x512.png"> <!-- Example image URL, replace with your actual image URL -->
     <meta property="og:image:alt" content="HigherEduSpot Logo and Overview">
     <meta property="og:site_name" content="HigherEduSpot">
     
@@ -36,23 +36,16 @@
     <meta name="twitter:creator" content="@HigherEduSpot"> <!-- Replace with your Twitter handle if available -->
     <meta name="twitter:title" content="HigherEduSpot - Your Source for Jobs in University">
     <meta name="twitter:description" content="Whether you're looking for administrative jobs, executive jobs, faculty jobs or postdoc jobs, HigherEduSpot connects you with top universities seeking talented individuals like you.">
-    <meta name="twitter:image" content="https://www.highereduspot.com/web-app-manifest-512x512.png"> <!-- Example image URL, replace with your actual image URL -->
+    <meta name="twitter:image" content="https://highereduspot.com/web-app-manifest-512x512.png"> <!-- Example image URL, replace with your actual image URL -->
     
     <!-- Canonical Tag -->
-    <link rel="canonical" href="https://www.highereduspot.com/">    
+    <link rel="canonical" href="https://highereduspot.com/">    
 
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8307825352977967"
      crossorigin="anonymous"></script>
 
     <meta name="google-adsense-account" content="ca-pub-8307825352977967">
 
-    <meta name="yandex-verification" content="bea5f5d9c9caf04a" />
-
-<!-- Yandex.RTB -->
-<script>window.yaContextCb=window.yaContextCb||[]</script>
-<script src="https://yandex.ru/ads/system/context.js" async></script>
-
-     <meta name="google-adsense-account" content="ca-pub-8307825352977967">
 
     <!-- favicon -->
     {{ block "head/favicon" . }}{{ partialCached "head/favicon.html" . }}{{ end }}
@@ -102,4 +95,13 @@
         {{- template "_internal/google_analytics.html" . -}}
     {{- end -}}
     {{- end -}}
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FDTK7S5182"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FDTK7S5182');
+</script>
 </head>
