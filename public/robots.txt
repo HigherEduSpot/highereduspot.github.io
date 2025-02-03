@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://highereduspot.com/index.xml
-Sitemap: https://highereduspot.com/sitemap.xml
+Sitemap: https://www.highereduspot.com/index.xml
+Sitemap: https://www.highereduspot.com/sitemap.xml
