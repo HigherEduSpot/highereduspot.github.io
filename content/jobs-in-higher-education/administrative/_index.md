@@ -1,5 +1,5 @@
 ---
-weight: 7000
+weight: 3000
 title: "Administrative"
 description: "Explore a variety of administrative roles within universities, ranging from academic coordinators to executive assistants."
 icon: home_work
