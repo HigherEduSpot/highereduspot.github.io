@@ -1,5 +1,5 @@
 ---
-weight: 7001
+weight: 3001
 title: "Administrative"
 description: "HigherEduSpot currently lists available administrative job opportunities."
 icon: home_work

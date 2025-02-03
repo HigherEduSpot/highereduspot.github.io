@@ -1,5 +1,5 @@
 ---
-weight: 9001
+weight: 2001
 title: "Faculty"
 description: "HigherEduSpot currently lists available faculty job opportunities."
 icon: rebase_edit
