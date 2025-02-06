@@ -1,7 +1,7 @@
 ---
 weight: 12002
 title: "Overview of the Tutorials Page"
-description: "Step-by-Step Guides for Navigating Higher Education"
+description: "Turn a Computer into a Web Server"
 icon: cast_for_education
 date: 2025-01-03T15:00:00+03:00
 ---
