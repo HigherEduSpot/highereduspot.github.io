@@ -33,3 +33,21 @@ credentials-file: /root/.cloudflared/code-code-code-code-code.json
 cloudflared tunnel run
 
 CNAME Record: code-code-code-code-code.cfargotunnel.com
+
+---
+
+### GNU diff3 text comparison utility not found. You can ignore this for now, but might run into edit conflicts more frequently.
+
+sudo apt install diffutils -y
+which diff3
+
+### Found GD graphics library built-in. Image thumbnailing will be enabled if you enable uploads.
+
+Edit LocalSettings.php
+
+$wgEnableUploads = true;
+
+**Git version control software not found. You can ignore this for now. Note Special:Version will not display commit hashes.**
+
+sudo apt install git -y
+git --version
