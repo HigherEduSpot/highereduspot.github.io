@@ -25,9 +25,11 @@ cloudflared tunnel create -NAME-
 nano ~/.cloudflared/config.yml
 
 url: http://localhost
+
 tunnel: code-code-code-code-code
+
 credentials-file: /root/.cloudflared/code-code-code-code-code.json
 
-cloudflared tunnel run
+cloudflared tunnel run
 
 CNAME Record: code-code-code-code-code.cfargotunnel.com
