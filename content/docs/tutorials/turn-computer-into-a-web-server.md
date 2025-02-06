@@ -20,7 +20,7 @@ wget -q https://github.com/cloudflare/cloudflared/releases/latest/download/cloud
 
 cloudflared tunnel login (or cloudflared login)
 
-cloudflared tunnel create <NAME>
+cloudflared tunnel create -NAME-
 
 nano ~/.cloudflared/config.yml
 
