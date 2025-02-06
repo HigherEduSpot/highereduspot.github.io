@@ -1,12 +1,14 @@
 ---
 weight: 12002
-title: "Overview of the Tutorials Page"
+title: "Turn a Computer into a Web Server"
 description: "Turn a Computer into a Web Server"
 icon: cast_for_education
 date: 2025-01-03T15:00:00+03:00
 ---
 
 {{< alert text="Have a question? We're happy to assist. Feel free to [email us](mailto:support@highereduspot.com)." />}}
+
+### Root
 
 sudo -i or sudo -s (root)
 
