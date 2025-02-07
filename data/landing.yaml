@@ -25,7 +25,7 @@ hero:
   #   height: 80px
 
   title: "Faculty Jobs in Business and Economics"
-  subtitle: "Whether you're looking for **postdoc**, **faculty**, **administrative**, or **executive** **jobs**, **HigherEduSpot** connects you with top universities seeking talented individuals like you."
+  subtitle: "🚀 Explore HigherEduSpot Wiki – Your hub for university jobs, academic resources, and research insights."
 
   image:
     path: "images" # path to image under configured assets directory. default 'images'
@@ -36,8 +36,8 @@ hero:
 
   ctaButton:
       icon: work
-      btnText: "Jobs in Higher Education"
-      url: "/jobs-in-higher-education"
+      btnText: "HigherEduSpot Wiki"
+      url: "https://wiki.highereduspot.com"
 
   cta2Button:
     icon: database
