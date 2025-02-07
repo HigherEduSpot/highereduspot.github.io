@@ -35,7 +35,7 @@ hero:
     rounded: true # round the image corners? default 'false' (excludes .svg images)
 
   ctaButton:
-      icon: work
+      icon: menu_book
       btnText: "Visit HigherEduSpot Wiki"
       url: "https://wiki.highereduspot.com"
 
