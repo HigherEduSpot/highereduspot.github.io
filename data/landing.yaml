@@ -25,7 +25,7 @@ hero:
   #   height: 80px
 
   title: "Visit HigherEduSpot Wiki"
-  subtitle: "🚀 Explore HigherEduSpot Wiki – Your hub for higher education resources, research insights, and jobs in higher education."
+  subtitle: "🚀 Explore HigherEduSpot Wiki – 📖 Your hub for higher education resources, research insights, and jobs in higher education."
 
   image:
     path: "images" # path to image under configured assets directory. default 'images'
