@@ -30,14 +30,14 @@ hero:
   image:
     path: "images" # path to image under configured assets directory. default 'images'
     filename: "map.png" # filename of your hero image (including file extension)
-    alt: "Jobs in Higher Education" # Optional but recommended
+    alt: "Higher Education Platform" # Optional but recommended
     boxShadow: true # default 'false' (excludes .svg images)
     rounded: true # round the image corners? default 'false' (excludes .svg images)
 
   ctaButton:
       icon: menu_book
-      btnText: "Visit HigherEduSpot Wiki"
-      url: "https://wiki.highereduspot.com"
+      btnText: "Visit HigherEduSpot"
+      url: "https://www.highereduspot.com"
 
   # cta2Button:
     # icon: database
