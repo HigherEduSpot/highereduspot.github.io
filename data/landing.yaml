@@ -40,8 +40,8 @@ hero:
       url: "https://wiki.highereduspot.com"
 
   # cta2Button:
-    icon: database
-    btnText: "Documentation"
-    url: "/docs/"
+    # icon: database
+    # btnText: "Documentation"
+    # url: "/docs/"
 
   # info: "MIT Licensed."
