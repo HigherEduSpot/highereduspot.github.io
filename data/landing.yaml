@@ -39,7 +39,7 @@ hero:
       btnText: "Visit HigherEduSpot Wiki"
       url: "https://wiki.highereduspot.com"
 
-  cta2Button:
+  # cta2Button:
     icon: database
     btnText: "Documentation"
     url: "/docs/"

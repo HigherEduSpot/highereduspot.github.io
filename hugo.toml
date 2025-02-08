@@ -56,7 +56,7 @@ title = 'HigherEduSpot'
         # prismTheme      = "lotusdocs"                         # (optional) - Set theme for PrismJS. Options include: lotusdocs (default), solarized-light, twilight, lucario
 
         # gitinfo
-        repoURL         = "https://github.com/articleos/articleos.github.io"  # Git repository URL for your site [support for GitHub, GitLab, and BitBucket]
+        repoURL         = "https://github.com/HigherEduSpot/highereduspot.github.io"  # Git repository URL for your site [support for GitHub, GitLab, and BitBucket]
         repoBranch      = "release"                           # Name of your Git repository branch
         editPage        = true                                # enable 'Edit this page' feature - default false
         lastMod         = true                                # enable 'Last modified' date on pages - default false
@@ -82,13 +82,13 @@ title = 'HigherEduSpot'
         # front matter
         descriptions    = true                                # enable front matter descriptions under content title?
 
-[[menu.primary]]
+# [[menu.primary]]
     name  = "About HigherEduSpot"
     url = "/about/"
     identifier = "about"
     weight = 20
 
-[[menu.primary]]
+# [[menu.primary]]
     name  = "Post Job"
     url = "/post-job/"
     identifier = "post-job"
