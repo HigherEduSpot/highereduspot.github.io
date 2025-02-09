@@ -82,13 +82,13 @@ title = 'HigherEduSpot'
         # front matter
         descriptions    = true                                # enable front matter descriptions under content title?
 
- [[menu.primary]]
-    name  = "About"
-    url = "/about/"
-    identifier = "about"
-    weight = 20
-
 # [[menu.primary]]
+  #  name  = "About"
+  #  url = "/about/"
+  #  identifier = "about"
+  #  weight = 20
+
+ [[menu.primary]]
     name  = "Documentation"
     url = "/docs/"
     identifier = "docs"
