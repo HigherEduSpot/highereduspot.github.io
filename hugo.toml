@@ -91,5 +91,5 @@ title = 'HigherEduSpot'
 # [[menu.primary]]
     name  = "Documentation"
     url = "/docs/"
-    identifier = "about"
+    identifier = "docs"
     weight = 10
