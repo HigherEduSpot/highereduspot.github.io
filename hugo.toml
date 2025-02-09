@@ -49,7 +49,7 @@ title = 'HigherEduSpot'
 
         # themeColor      = "cyan"                            # (optional) - Set theme accent colour. Options include: blue (default), green, red, yellow, emerald, cardinal, magenta, cyan
 
-        darkMode        = true                                # enable dark mode option? default false
+        darkMode        = false                                # enable dark mode option? default false
 
         prism           = true                                # enable syntax highlighting via Prism
 
