@@ -1,7 +1,7 @@
 baseURL = 'https://insights.highereduspot.com/'
 languageCode = 'en-us'
 
-title = 'HigherEduSpot'
+title = 'HigherEduSpot Insights'
 
 [module]
     [[module.imports]]
@@ -33,7 +33,7 @@ title = 'HigherEduSpot'
   mono_font       = "Fira Code" # Default is System font
 
     [params.footer]
-        copyright = "© :YEAR: HigherEduSpot."
+        copyright = "© :YEAR: HigherEduSpot Insights."
         version   = true # include git commit info in footer
 
     [params.social]
